@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Trending
+  url: /articles/
+
+- title: How-Tos
+  url: /blog/
+
+- title: About
+  url: /about/
+
+- title: Search
+  url: /search/
