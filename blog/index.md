@@ -3,6 +3,8 @@ layout: page
 title: How-Tos
 excerpt: "An archive of how-to blog posts sorted by date."
 search_omit: true
+image:
+  feature: front-page.jpg
 ---
 
 <ul class="post-list">
