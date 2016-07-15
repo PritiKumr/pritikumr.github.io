@@ -37,6 +37,22 @@
 	@include fill-parent;
 }
 
+
+@media (min-width:320px) { 
+	.yoyo{margin-left: 27%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo_h2{margin-left: 18%;text-shadow: 0 0 10px #FFFFFF;} 
+}
+@media (min-width:641px) { 
+	.yoyo{margin-left: 39%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo_h2{margin-left: 22%;text-shadow: 0 0 10px #FFFFFF;} 
+
+}
+@media (min-width:1281px) { 
+	.yoyo{margin-left: 44%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo_h2{margin-left: 37%;text-shadow: 0 0 10px #FFFFFF;} 
+
+}
+
 /* tag listing in page header */
 
 .entry-tags {
