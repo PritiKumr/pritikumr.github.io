@@ -37,19 +37,27 @@
 	@include fill-parent;
 }
 
-
+/* Phone */
 @media (min-width:320px) { 
 	.yoyo{margin-left: 27%;text-shadow: 0 0 10px #FFFFFF;} 
-	.yoyo_h2{margin-left: 18%;text-shadow: 0 0 10px #FFFFFF;} 
-}
-@media (min-width:641px) { 
-	.yoyo{margin-left: 43%;text-shadow: 0 0 10px #FFFFFF;} 
-	.yoyo_h2{margin-left: 34%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo_h2{margin-left: 12%;text-shadow: 0 0 10px #FFFFFF; text-align: center;} 
+	.entry-feature-image { margin-top: -49%; }
 
 }
+
+/* Tab or iPad */
+@media (min-width:641px) { 
+	.yoyo{margin-left: 39%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo_h2{margin-left: 3%;text-shadow: 0 0 10px #FFFFFF;} 
+	.entry-feature-image { margin-top: -28%; }
+
+}
+
+/* Desktop */
 @media (min-width:1281px) { 
-	.yoyo{margin-left: 50%;text-shadow: 0 0 10px #FFFFFF;} 
-	.yoyo_h2{margin-left: 43%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo{margin-left: 43%;text-shadow: 0 0 10px #FFFFFF;} 
+	.yoyo_h2{margin-left: -2%;text-shadow: 0 0 10px #FFFFFF;} 
+	.entry-feature-image { margin-top: -19%; }
 
 }
 
