@@ -3,7 +3,7 @@
   
     {
       "title"			: "Employee Referral",
-      "link"			: "https://pritikumr.github.io/articles/employee-referral/",
+      "link"			: "http://localhost:4000//articles/employee-referral/",
       "excerpt"		: "Why employee referrals?"
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Welcome to Rowthiram",
-      "link"			: "https://pritikumr.github.io/articles/welcome-to-rowthiram/",
+      "link"			: "http://localhost:4000//articles/welcome-to-rowthiram/",
       "excerpt"		: "Welcome to Rowthiram!"
     }
   
@@ -29,7 +29,7 @@
   
     ,{
       "title"			: "About Rowthiram",
-      "link"			: "https://pritikumr.github.io/about/",
+      "link"			: "http://localhost:4000//about/",
       "excerpt"		: "A site crafted to play around with the technology around us."
     }
   
@@ -39,7 +39,7 @@
   
     ,{
       "title"			: "Articles",
-      "link"			: "https://pritikumr.github.io/articles/",
+      "link"			: "http://localhost:4000//articles/",
       "excerpt"		: "An archive of articles sorted by date."
     }
   
@@ -47,7 +47,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "https://pritikumr.github.io/theme-setup/",
+      "link"			: "http://localhost:4000//theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
