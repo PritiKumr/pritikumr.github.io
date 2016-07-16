@@ -6,7 +6,7 @@ description: Stay Put. A blog trying to keep you engaged.
 logo: akk.png
 search: true
 url: https://pritikumr.github.io
-
+# http://localhost:4000
 # Jekyll configuration
 
 permalink:   /:categories/:title/
