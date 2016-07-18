@@ -3,7 +3,7 @@
   
     {
       "title"			: "Illustrations Vs Words",
-      "link"			: "https://pritikumr.github.io/articles/illustrations-vs-words/",
+      "link"			: "http://rowthiram.com/articles/illustrations-vs-words/",
       "excerpt"		: "Illustrations or Words,making communication simple and beautiful?"
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Employee Referral",
-      "link"			: "https://pritikumr.github.io/articles/employee-referral/",
+      "link"			: "http://rowthiram.com/articles/employee-referral/",
       "excerpt"		: "Why employee referrals?"
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Welcome to Rowthiram",
-      "link"			: "https://pritikumr.github.io/articles/welcome-to-rowthiram/",
+      "link"			: "http://rowthiram.com/articles/welcome-to-rowthiram/",
       "excerpt"		: "Welcome to Rowthiram!"
     }
   
@@ -37,7 +37,7 @@
   
     ,{
       "title"			: "About Rowthiram",
-      "link"			: "https://pritikumr.github.io/about/",
+      "link"			: "http://rowthiram.com/about/",
       "excerpt"		: "A site crafted to play around with the technology around us."
     }
   
@@ -47,7 +47,7 @@
   
     ,{
       "title"			: "Articles",
-      "link"			: "https://pritikumr.github.io/articles/",
+      "link"			: "http://rowthiram.com/articles/",
       "excerpt"		: "An archive of articles sorted by date."
     }
   
@@ -55,7 +55,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "https://pritikumr.github.io/theme-setup/",
+      "link"			: "http://rowthiram.com/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
