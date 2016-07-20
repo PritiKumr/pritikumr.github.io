@@ -3,7 +3,7 @@
   
     {
       "title"			: "My first job experience",
-      "link"			: "http://localhost:4000/articles/my-first-job-experience/",
+      "link"			: "http://rowthiram.com/articles/my-first-job-experience/",
       "excerpt"		: "Finding out a whole new myself."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Illustrations Vs Words",
-      "link"			: "http://localhost:4000/articles/illustrations-vs-words/",
+      "link"			: "http://rowthiram.com/articles/illustrations-vs-words/",
       "excerpt"		: "Illustrations or Words,making communication simple and beautiful?"
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Employee Referral",
-      "link"			: "http://localhost:4000/articles/employee-referral/",
+      "link"			: "http://rowthiram.com/articles/employee-referral/",
       "excerpt"		: "Why employee referrals?"
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Welcome to Rowthiram",
-      "link"			: "http://localhost:4000/articles/welcome-to-rowthiram/",
+      "link"			: "http://rowthiram.com/articles/welcome-to-rowthiram/",
       "excerpt"		: "Welcome to Rowthiram!"
     }
   
@@ -45,7 +45,7 @@
   
     ,{
       "title"			: "About Rowthiram",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://rowthiram.com/about/",
       "excerpt"		: "A site crafted to play around with the technology around us."
     }
   
@@ -55,7 +55,7 @@
   
     ,{
       "title"			: "Articles",
-      "link"			: "http://localhost:4000/articles/",
+      "link"			: "http://rowthiram.com/articles/",
       "excerpt"		: "An archive of articles sorted by date."
     }
   
@@ -63,7 +63,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "http://rowthiram.com/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
