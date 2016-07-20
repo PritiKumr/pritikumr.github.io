@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illustrations Vs Words"
-excerpt: "Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous."
+excerpt: "Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous..."
 categories: articles
 tags: [language, communication, words, interaction]
 author: venkat_subish

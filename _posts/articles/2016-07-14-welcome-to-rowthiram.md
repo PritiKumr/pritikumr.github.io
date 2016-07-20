@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Rowthiram"
+title:  "Welcome to Rowthiram."
 date:   2016-07-14 13:25:35 +0200
 categories: articles
 author: preethi_kr
 share: true
 modified: 2016-07-14T14:18:57-04:00
 image:
-  feature: so-simple-sample-image-5.jpg
+  feature: 198H.jpg
 ---
 
 Welcome to Rowthiram!
