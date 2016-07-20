@@ -10,7 +10,7 @@ modified: 2016-07-15T18:18:57+05:00
 
 share: true
 image:
-  feature: so-simple-sample-image-5.jpg
+  feature: venkat1.jpg
 ---
 
 *4.5 Billion years ago*, our beautiful Earth, round and blue came into the picture of solar system bundled with uniqueness talking for itself. A little later life found it's way a few billion years later. Evolution took us for a ride bringing us to this point in time. Looking back to the early stages of human, there was some thing that was missing.

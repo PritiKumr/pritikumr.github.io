@@ -9,7 +9,7 @@ date:   2016-07-18 10:25:35 +0200
 share: true
 modified: 2016-07-18T11:18:57-04:00
 image:
-  feature: so-simple-sample-image-1.jpg
+  feature: my_first_job.jpg
 ---
 
 *Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months.*
