@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My first job experience"
-excerpt: "Finding out a whole new myself."
+title: "My First Job Experience"
+excerpt: "Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months."
 categories: articles
 tags: [employee, diary, programming]
 author: priya_dharsini

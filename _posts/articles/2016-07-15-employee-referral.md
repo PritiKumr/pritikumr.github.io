@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Employee Referral"
-excerpt: "Why employee referrals?"
+excerpt: "Why employee referrals? Here are the top 6 reasons why companies recruit people by reference."
 categories: articles
 tags: [employee-referral, readability, quality]
 author: priya_dharsini
