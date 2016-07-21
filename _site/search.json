@@ -51,20 +51,20 @@
   
 
   
-    ,{
-      "title"			: "About Rowthiram",
-      "link"			: "http://rowthiram.com/about/",
-      "excerpt"		: "A site crafted to play around with the technology around us."
-    }
-  
-
-  
 
   
     ,{
       "title"			: "Articles",
       "link"			: "http://rowthiram.com/articles/",
       "excerpt"		: "An archive of articles sorted by date."
+    }
+  
+
+  
+    ,{
+      "title"			: "About Rowthiram",
+      "link"			: "http://rowthiram.com/contact/",
+      "excerpt"		: "A site crafted to play around with the technology around us."
     }
   
 

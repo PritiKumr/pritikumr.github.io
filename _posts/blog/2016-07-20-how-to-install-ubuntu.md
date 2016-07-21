@@ -6,6 +6,7 @@ date:   2016-07-20 13:25:35 +0200
 categories: blog
 author: shilpi_agrawal
 share: true
+tags: [dual-boot, ubuntu, os]
 modified: 2016-07-20T16:04:57-04:00
 image:
   feature: ubuntu.jpg
