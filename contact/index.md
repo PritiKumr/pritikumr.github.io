@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Rowthiram
+title: Contact Rowthiram
 excerpt: "A site crafted to play around with the technology around us."
 modified: 2016-07-14T19:44:38.564948-04:00
 image:
@@ -17,9 +17,8 @@ We answer emails as soon as I can, trust me I wouldn't keep you waiting.
 
 ## CONNECT WITH US
 
-Email: <a href="mailto:priti922474@email.com"> team@rowthiram.com </a>
-
-(or)
+Shoot us an email.
+Email: <a href="mailto:priti922474@gmail.com"> team@rowthiram.com </a>
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://pritikumr.typeform.com/to/dsgpUF" data-text="Contact Form" style="width:100%;height:500px;"></div>

@@ -51,6 +51,14 @@
   
 
   
+    ,{
+      "title"			: "About Rowthiram Team",
+      "link"			: "http://rowthiram.com/about/",
+      "excerpt"		: "A site crafted to play around with the technology around us."
+    }
+  
+
+  
 
   
     ,{
@@ -62,7 +70,7 @@
 
   
     ,{
-      "title"			: "About Rowthiram",
+      "title"			: "Contact Rowthiram",
       "link"			: "http://rowthiram.com/contact/",
       "excerpt"		: "A site crafted to play around with the technology around us."
     }
