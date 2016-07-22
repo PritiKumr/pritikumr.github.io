@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Build and host your own site."
+title: "Build and host your own site using Jekyll and Github Pages."
 excerpt: "Websites are your identity that speak for you in the internet, setting them up can cost you much..."
 categories: blog
 tags: [jekyll, website, github pages, blog, static site]
