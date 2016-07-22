@@ -166,7 +166,7 @@
       <div class="entry-content">
         <h2 id="build-your-own-static-site-and-host">Build your own static site and host.</h2>
 
-<p>Basic command line control will be a really good start for this tutorial. We’re gonna build a site and launch it. Firstly, let’s do some analysis over the regular costing for building and hosting a small blogging site or personal website.</p>
+<p>Basic command line control will be a really good start for this tutorial. We’re gonna build a site and launch it.</p>
 
 <p>We’re gonna make use of Jekyll for easily building our static site and Github Pages for hosting.</p>
 
@@ -177,7 +177,7 @@
 
 <p>First, what’s jekyll?</p>
 
-<p>Jekyll is a static site generator. In simple, it gives us a ready to use website. Make slight tweaks and integrate any free themes. You are all set then. You think a walk through would be much better?</p>
+<p>Jekyll is a static site generator. In simple, it gives us a ready to use static website without the actual need for a database to store our contents,makes it extremely fast. Make slight tweaks and integrate any free themes and you are all set. You think a walk through would be much better?</p>
 
 <p>The jekyll documentation is a big help, although very confusing for someone with no technical knowledge.</p>
 
@@ -187,7 +187,7 @@
 
     <ul>
       <li>
-        <p>You will need to install Ruby on your machine, because jekyll is powered by Ruby. Installing Ruby is really simple and follow this <a href="https://www.ruby-lang.org/en/documentation/installation">link</a> if your not sure how to start.</p>
+        <p>You will need to install Ruby on your machine, because jekyll is powered by Ruby. Installing Ruby is really simple, follow this <a href="https://www.ruby-lang.org/en/documentation/installation">link</a> if your not sure how to start.</p>
       </li>
       <li>
         <p>Also you need a package management framework for ruby to help you install the essential software packages. Follow <a href="https://rubygems.org/pages/download/">link</a> to download.</p>
@@ -202,9 +202,9 @@
 </code></pre>
 </div>
 
-<p>This will jekyll software package to your local machine.</p>
+<p>This will install jekyll software package to your local machine.</p>
 
-<p>To verify if you have properly installed Jekyll in your machine, use the below command. make sure your command returns something similar to ‘jekyll 3.1.6’</p>
+<p>To verify if you have properly installed Jekyll on your machine, use the below command. Make sure the command returns something similar to ‘jekyll 3.1.6’</p>
 
 <div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="err">$</span> <span class="n">jekyll</span> <span class="o">-</span><span class="n">v</span>
 <span class="n">jekyll</span> <span class="mi">3</span><span class="o">.</span><span class="mi">1</span><span class="o">.</span><span class="mi">6</span>
@@ -217,7 +217,7 @@
   <li>Download and use any free themes.</li>
 </ol>
 
-<p>But if your really new to this, it’s the latter that you got to deal with.</p>
+<p>But if your really new to this, it’s the latter that you got to go with.</p>
 
 <p>Jekyll has got a huge supported themes, choose your favorite and download them. Here is a quick <a href="http://jekyllthemes.org/">link</a> for fellow lazy minds. :P</p>
 
@@ -269,7 +269,7 @@ Configuration file: /home/preethi/NewSite/_config.yml
 </code></pre>
 </div>
 
-<p>The ‘jekyll build’ is the most important command that builds the destination site, the site that you’ve been trying to build now. Finally, fire up the server with the ‘jekyll serve’ command.</p>
+<p>The ‘jekyll build’ is the most important command that builds the destination site, the site that you’ve been trying to build now. Finally, fire up the server with the ‘jekyll serve’ command. You can find your site under the ‘_site’ folder in the jekyll skeleton directory.</p>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>$ jekyll serve
 Configuration file: /home/preethi/NewSite/_config.yml

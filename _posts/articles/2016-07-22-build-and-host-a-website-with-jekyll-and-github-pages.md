@@ -15,7 +15,7 @@ image:
 
 ## Build your own static site and host.
 
-Basic command line control will be a really good start for this tutorial. We're gonna build a site and launch it. Firstly, let's do some analysis over the regular costing for building and hosting a small blogging site or personal website.
+Basic command line control will be a really good start for this tutorial. We're gonna build a site and launch it.
 
 We're gonna make use of Jekyll for easily building our static site and Github Pages for hosting. 
 
@@ -24,13 +24,13 @@ We're gonna make use of Jekyll for easily building our static site and Github Pa
 
 First, what's jekyll?
 
-Jekyll is a static site generator. In simple, it gives us a ready to use website. Make slight tweaks and integrate any free themes. You are all set then. You think a walk through would be much better?
+Jekyll is a static site generator. In simple, it gives us a ready to use static website without the actual need for a database to store our contents,makes it extremely fast. Make slight tweaks and integrate any free themes and you are all set. You think a walk through would be much better?
 
 The jekyll documentation is a big help, although very confusing for someone with no technical knowledge.
 
 * Prerequisites to run jekyll: 
 
-	* You will need to install Ruby on your machine, because jekyll is powered by Ruby. Installing Ruby is really simple and follow this <a href="https://www.ruby-lang.org/en/documentation/installation">link</a> if your not sure how to start.
+	* You will need to install Ruby on your machine, because jekyll is powered by Ruby. Installing Ruby is really simple, follow this <a href="https://www.ruby-lang.org/en/documentation/installation">link</a> if your not sure how to start.
 
 	* Also you need a package management framework for ruby to help you install the essential software packages. Follow <a href="https://rubygems.org/pages/download/">link</a> to download. 
 
@@ -40,9 +40,9 @@ After you follow these steps, moving around with Jekyll is pretty simple.
 $ gem install jekyll
 ~~~
 
-This will jekyll software package to your local machine. 
+This will install jekyll software package to your local machine. 
 
-To verify if you have properly installed Jekyll in your machine, use the below command. make sure your command returns something similar to 'jekyll 3.1.6'
+To verify if you have properly installed Jekyll on your machine, use the below command. Make sure the command returns something similar to 'jekyll 3.1.6'
 
 ```ruby
 $ jekyll -v
@@ -53,7 +53,7 @@ As far as your static site generation is concerned, it is all set. Now, for web 
 1. Design your blog.
 2. Download and use any free themes.
 
-But if your really new to this, it's the latter that you got to deal with.
+But if your really new to this, it's the latter that you got to go with.
 
 Jekyll has got a huge supported themes, choose your favorite and download them. Here is a quick <a href="http://jekyllthemes.org/">link</a> for fellow lazy minds. :P
 
@@ -99,7 +99,7 @@ This site generates the scaffold needed for you, in simpler terms it creates the
 	                    done in 1.361 seconds.
 	 Auto-regeneration: disabled. Use --watch to enable.
 
-The 'jekyll build' is the most important command that builds the destination site, the site that you've been trying to build now. Finally, fire up the server with the 'jekyll serve' command.
+The 'jekyll build' is the most important command that builds the destination site, the site that you've been trying to build now. Finally, fire up the server with the 'jekyll serve' command. You can find your site under the '_site' folder in the jekyll skeleton directory.
 
 	$ jekyll serve
 	Configuration file: /home/preethi/NewSite/_config.yml
