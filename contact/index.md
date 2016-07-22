@@ -13,7 +13,7 @@ We would love to hear it from you. What's more than communication.
 
 If you have any queries, suggestion, comment or just want to say hi, get in touch.
 
-We answer emails as soon as I can, trust me I wouldn't keep you waiting.
+We answer emails as soon as we can, trust us we wouldn't keep you waiting.
 
 ## CONNECT WITH US
 
