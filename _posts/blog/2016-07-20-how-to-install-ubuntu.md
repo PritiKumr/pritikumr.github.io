@@ -16,7 +16,7 @@ image:
 
 While Ubuntu is one of the widely used Linux distros, getting your hands on it is a must-know thing for most people entering the software field.
 
-There are a number of different ways of installing Ubuntu. In this guid I'm gonna walk you through one such way.
+There are a number of different ways of installing Ubuntu. In this guide I'm gonna walk you through one such way.
 
 Ubuntu can be installed in various scenarios.
 
