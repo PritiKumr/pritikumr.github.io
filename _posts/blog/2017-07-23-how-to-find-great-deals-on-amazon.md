@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How-to find great deals on Amazon site."
+title: "How-to find great deals on Amazon."
 excerpt: "Simple jugaad that can help you reduce your search for the best deal.."
 categories: blog
 tags: [amazon, website, deals, shopping, shopping hacks]
@@ -63,7 +63,7 @@ Use the node number in the URL that we have, so our final URL looks like this
 
 	www.amazon.in/gp/search/?node=976389031&pct-off=80-90
 
-Here is a screenshot of the above URL,
+Here is a screenshot of the discounted resutt for above URL,
 
 <figure>
 	<img src="/images/amazon_hack_2.png">
