@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://rowthiram.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rowthiram.com/" rel="alternate" type="text/html" /><updated>2016-07-22T23:59:46+05:30</updated><id>http://rowthiram.com/</id><title>Rowthiram</title><subtitle>Stay Put. A blog trying to keep you engaged.</subtitle><entry><title>Build and host your own site using Jekyll and Github Pages.</title><link href="http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/" rel="alternate" type="text/html" title="Build and host your own site using Jekyll and Github Pages." /><published>2016-07-22T14:55:35+05:30</published><updated>2016-07-22T14:55:35+05:30</updated><id>http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages</id><content type="html" xml:base="http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/">&lt;h2 id=&quot;build-your-own-static-site-and-host&quot;&gt;Build your own static site and host.&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://rowthiram.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rowthiram.com/" rel="alternate" type="text/html" /><updated>2016-07-23T22:46:40+05:30</updated><id>http://rowthiram.com/</id><title>Rowthiram</title><subtitle>Stay Put. A blog trying to keep you engaged.</subtitle><entry><title>How-to find great deals on Amazon site.</title><link href="http://rowthiram.com/blog/how-to-find-great-deals-on-amazon/" rel="alternate" type="text/html" title="How-to find great deals on Amazon site." /><published>2016-07-23T14:55:35+05:30</published><updated>2016-07-23T14:55:35+05:30</updated><id>http://rowthiram.com/blog/how-to-find-great-deals-on-amazon</id><content type="html" xml:base="http://rowthiram.com/blog/how-to-find-great-deals-on-amazon/">&lt;p&gt;How to find great deals on Amazon? Amazon already runs regular campaigns for user benefits. Although there are huge deals in amazon, there is no filter for us to sort the products we like based on the discount available for the product.&lt;/p&gt;
+
+&lt;p&gt;Let’s make use of a simple search element to get products with discounted price. It works on both Amazon.com and Amazon India.&lt;/p&gt;
+
+&lt;p&gt;Here is a sample screenshot of the search that was performed in Clothing category to get deals with 80-90% discount.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/amazon_hack_1.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;How did I get deals that have 80-90% discount? Yayy! Simple shopping hacks. A very simple search string was used to find the discounted items in the selected category in Amazon site.&lt;/p&gt;
+
+&lt;p&gt;Let’s get to the amazing part.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Amazon.com&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  www.amazon.com/gp/search/?node=nodenumber&amp;amp;pct-off=x-y
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Amazon India&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  www.amazon.in/gp/search/?node=nodenumber&amp;amp;pct-off=x-y
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the main URL that is used search through our selected category for the best discounted products. The URL isn’t ready to use, you need to make slight modifications to the URL as per your requirements. The ‘x’ and ‘y’ at the end of the URL are the parameters that define your discount range.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;www.amazon.in/gp/search/?node=nodenumber&amp;amp;pct-off=80-90
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This URL when complete will fetch you all the products with discounts inbetween 80 to 90 percent. We still have to make a slight tweak to the URL to get the result that we wanted, we need to set the category for which we want to apply the discounted search string.&lt;/p&gt;
+
+&lt;p&gt;Amazon has a unique node number for each category, which you can find from Amazon URL. A URL that contains nodenumber belonging to Books,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Amazon.com&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  https://www.amazon.com/books-used-books-textbooks/b/ref=nav_shopall_bo?ie=UTF8&amp;amp;node=283155
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Amazon India&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  http://www.amazon.in/Books/b/ref=sd_allcat_books_all?ie=UTF8&amp;amp;node=976389031
+&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;strong&gt;node&lt;/strong&gt; parameter in the above URL is the value we need to complete our Amazon shopping hack. Here is a screenshot that gives us the URL with the node number.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/amazon_hack_3.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Navigate to the category you want to purchase from the Amazon site and get a hold of the nodenumber belonging to the category from the URL.&lt;/p&gt;
+
+&lt;p&gt;Use the node number in the URL that we have, so our final URL looks like this&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;www.amazon.in/gp/search/?node=976389031&amp;amp;pct-off=80-90
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here is a screenshot of the above URL,&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/amazon_hack_2.png&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;​
+Good luck with finding great deals on Amazon, if you do not have any available offers for the search just use different discount values to get more result.&lt;/p&gt;
+
+&lt;p&gt;Stay Put. :D&lt;/p&gt;</content><author><name>preethi_kr</name></author><category term="amazon" /><category term="website" /><category term="deals" /><category term="shopping" /><category term="shopping hacks" /><summary>Simple jugaad that can help you reduce your search for the best deal..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;amazon1.jpg&quot;}" /></entry><entry><title>Build and host your own site using Jekyll and Github Pages.</title><link href="http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/" rel="alternate" type="text/html" title="Build and host your own site using Jekyll and Github Pages." /><published>2016-07-22T14:55:35+05:30</published><updated>2016-07-22T14:55:35+05:30</updated><id>http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages</id><content type="html" xml:base="http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/">&lt;h2 id=&quot;build-your-own-static-site-and-host&quot;&gt;Build your own static site and host.&lt;/h2&gt;
 
 &lt;p&gt;Basic command line control will be a really good start for this tutorial. We’re gonna build a site and launch it.&lt;/p&gt;
 

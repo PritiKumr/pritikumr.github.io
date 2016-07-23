@@ -17,7 +17,7 @@ More description about the authors,
 
 ## Priya Dharshini
 	
-Email: <a href="mailto:priyaaa23.pd@gmail.com"> priya@rowthiram.com </a>
+Email: <a href="mailto:priyaaa23.pd@gmail.com"> priyaaa23.pd@gmail.com </a>
 
 <figure>
 	<img style=" height: 150px; width: 150px; border-radius: 50%;" src="/images/priya_dharsini.jpg">
@@ -25,7 +25,7 @@ Email: <a href="mailto:priyaaa23.pd@gmail.com"> priya@rowthiram.com </a>
 
 ## Venkat Subish
 	
-Email: <a href="mailto:venkat.subish@gmail.com"> venkat@rowthiram.com </a>
+Email: <a href="mailto:venkat.subish@gmail.com"> venkat.subish@gmail.com </a>
 
 <figure>
 	<img style=" height: 150px; width: 150px; border-radius: 50%;" src="/images/venkat_subish.jpg">
@@ -34,7 +34,7 @@ Email: <a href="mailto:venkat.subish@gmail.com"> venkat@rowthiram.com </a>
 
 ## Shilpi Agrawal
 
-Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpi@rowthiram.com </a>
+Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpiagrawal516@gmail.com </a>
 
 <figure>
 	<img style="; height: 150px; width: 150px; border-radius: 50%;" src="/images/shilpi_agrawal.jpg">
@@ -43,7 +43,7 @@ Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpi@rowthiram.com </a>
 
 ## Preethi Kumar
 
-Email: <a href="mailto:priti922474@gmail.com"> preethi@rowthiram.com </a>
+Email: <a href="mailto:priti922474@gmail.com"> priti922474@gmail.com </a>
 
 <figure>
 	<img style="  height: 150px; width: 150px; border-radius: 50%;" src="/images/preethi_kr.jpg">

@@ -17,8 +17,14 @@ We answer emails as soon as we can, trust us we wouldn't keep you waiting.
 
 ## CONNECT WITH US
 
-Shoot us an email.
-Email: <a href="mailto:priti922474@gmail.com"> team@rowthiram.com </a>
+Get in touch with our writers.
+
+<a href="https://www.facebook.com/profile.php?id=100006577752688"> Priya Dharsini </a>
+<a href="https://www.facebook.com/venkat.subish"> Venkat Subish </a>
+<a href="https://www.facebook.com/shilpi.kayal.3"> Shilpi Agrawal </a>
+<a href="https://www.facebook.com/priti922474"> Preethi KR </a>
+
+
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://pritikumr.typeform.com/to/dsgpUF" data-text="Contact Form" style="width:100%;height:500px;"></div>
