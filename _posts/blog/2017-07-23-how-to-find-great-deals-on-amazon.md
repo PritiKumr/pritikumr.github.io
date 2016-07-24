@@ -63,7 +63,7 @@ Use the node number in the URL that we have, so our final URL looks like this
 
 	www.amazon.in/gp/search/?node=976389031&pct-off=80-90
 
-Here is a screenshot of the discounted resutt for above URL,
+Here is a screenshot of the discounted result for above URL,
 
 <figure>
 	<img src="/images/amazon_hack_2.png">
