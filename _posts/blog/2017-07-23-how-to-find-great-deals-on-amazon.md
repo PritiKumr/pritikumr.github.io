@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How-to find best discounted products in Amazon."
+title: "How-to find best discounted products on Amazon."
 excerpt: "Simple jugaad that can help you reduce your search for the best deal.."
 categories: blog
 tags: [amazon, website, deals, shopping, shopping hacks]
