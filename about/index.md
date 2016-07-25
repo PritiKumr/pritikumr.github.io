@@ -16,7 +16,7 @@ The amazing Rowthiram team has 4 awesome contributors with a good fan base for t
 More description about the authors,
 
 ## Priya Dharshini
-	
+
 Email: <a href="mailto:priyaaa23.pd@gmail.com"> priyaaa23.pd@gmail.com </a>
 
 <figure>
@@ -24,7 +24,7 @@ Email: <a href="mailto:priyaaa23.pd@gmail.com"> priyaaa23.pd@gmail.com </a>
 </figure>
 
 ## Venkat Subish
-	
+
 Email: <a href="mailto:venkat.subish@gmail.com"> venkat.subish@gmail.com </a>
 
 <figure>
@@ -33,6 +33,7 @@ Email: <a href="mailto:venkat.subish@gmail.com"> venkat.subish@gmail.com </a>
 
 
 ## Shilpi Agrawal
+By profession and degree acquired she is a computer engineer. She lives on open source contirbution. By her choice  she describes herself as a writer and an artist trying to decode the logic of her survival, with her paintings and writings. Whatever she does, her only goal and dream is _to make this world a better place to live_.  
 
 Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpiagrawal516@gmail.com </a>
 
@@ -48,4 +49,3 @@ Email: <a href="mailto:priti922474@gmail.com"> priti922474@gmail.com </a>
 <figure>
 	<img style="  height: 150px; width: 150px; border-radius: 50%;" src="/images/preethi_kr.jpg">
 </figure>
-
