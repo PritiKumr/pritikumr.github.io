@@ -17,6 +17,8 @@ More description about the authors,
 
 ## Priya Dharshini
 
+A EEE graduate with greater interest in Computer Science. Loves to share her knowledge with the world. A crazy lady who loves surreal things.
+
 Email: <a href="mailto:priyaaa23.pd@gmail.com"> priyaaa23.pd@gmail.com </a>
 
 <figure>
@@ -24,6 +26,8 @@ Email: <a href="mailto:priyaaa23.pd@gmail.com"> priyaaa23.pd@gmail.com </a>
 </figure>
 
 ## Venkat Subish
+
+Dreamer. Lunatic. Crazy. He's got more names. A EEE graduate with great passion for Electronics, lives and loves whatever he does. Got great talent in Designing things. 
 
 Email: <a href="mailto:venkat.subish@gmail.com"> venkat.subish@gmail.com </a>
 
@@ -33,7 +37,8 @@ Email: <a href="mailto:venkat.subish@gmail.com"> venkat.subish@gmail.com </a>
 
 
 ## Shilpi Agrawal
-By profession and degree acquired she is a computer engineer. She lives on open source contirbution. By her choice  she describes herself as a writer and an artist trying to decode the logic of her survival, with her paintings and writings. Whatever she does, her only goal and dream is _to make this world a better place to live_.  
+
+By profession and degree acquired she is a computer engineer. She lives on open source contribution. By her choice  she describes herself as a writer and an artist trying to decode the logic of her survival, with her paintings and writings. Whatever she does, her only goal and dream is _to make this world a better place to live_.  
 
 Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpiagrawal516@gmail.com </a>
 
@@ -43,6 +48,8 @@ Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpiagrawal516@gmail.com <
 
 
 ## Preethi Kumar
+
+Pet Lover. Bathroom Singer. Crazy Dancer. Nosy female. Lives life to the fullest. Probably the most noisy person among the authors of Rowthiram.
 
 Email: <a href="mailto:priti922474@gmail.com"> priti922474@gmail.com </a>
 
