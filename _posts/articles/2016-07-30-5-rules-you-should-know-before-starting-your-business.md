@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Business rules on your tip."
+title:  "5 Business rules on your fingertips."
 excerpt: "Business is a long term process, it’s not just a cycle of 1 or 2 years, but it’s a cycle of your whole life and it should continue even after your death."
 date:   2016-07-30 13:59:24 +0530
 categories: blog
