@@ -2,8 +2,8 @@
 
   
     {
-      "title"			: "5 Business rules on your tip.",
-      "link"			: "http://localhost:4000/blog/5-rules-you-should-know-before-starting-your-business/",
+      "title"			: "5 Business rules on your fingertips.",
+      "link"			: "http://rowthiram.com/blog/five-rules-you-should-know-before-starting-your-business/",
       "excerpt"		: "Business is a long term process, it’s not just a cycle of 1 or 2 years, but it’s a cycle of your whole life and it should continue even after your death."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Start investing in just 5 minutes.",
-      "link"			: "http://localhost:4000/blog/start-investing-in-stock-market-in-just-5-minutes/",
+      "link"			: "http://rowthiram.com/blog/start-investing-in-stock-market-in-just-5-minutes/",
       "excerpt"		: "If you are salaried employee and thinking where to invest your money in, then you have landed to right page."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "How-to find best discounted products on Amazon.",
-      "link"			: "http://localhost:4000/blog/how-to-find-great-deals-on-amazon/",
+      "link"			: "http://rowthiram.com/blog/how-to-find-great-deals-on-amazon/",
       "excerpt"		: "Simple jugaad that can help you reduce your search for the best deal.."
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Build and host your own site using Jekyll and Github Pages.",
-      "link"			: "http://localhost:4000/blog/build-and-host-a-website-with-jekyll-and-github-pages/",
+      "link"			: "http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/",
       "excerpt"		: "Websites are your identity that speak for you in the internet, setting them up can cost you much…"
     }
   
@@ -35,7 +35,7 @@
   
     ,{
       "title"			: "How-To Install Ubuntu.",
-      "link"			: "http://localhost:4000/blog/how-to-install-ubuntu/",
+      "link"			: "http://rowthiram.com/blog/how-to-install-ubuntu/",
       "excerpt"		: "Ubuntu is Linux based open source operating system which is basically designed for programming addicts."
     }
   
@@ -43,7 +43,7 @@
   
     ,{
       "title"			: "My First Job Experience",
-      "link"			: "http://localhost:4000/articles/my-first-job-experience/",
+      "link"			: "http://rowthiram.com/articles/my-first-job-experience/",
       "excerpt"		: "Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months…"
     }
   
@@ -51,7 +51,7 @@
   
     ,{
       "title"			: "Illustrations Vs Words",
-      "link"			: "http://localhost:4000/articles/illustrations-vs-words/",
+      "link"			: "http://rowthiram.com/articles/illustrations-vs-words/",
       "excerpt"		: "Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous…"
     }
   
@@ -59,7 +59,7 @@
   
     ,{
       "title"			: "Employee Referral",
-      "link"			: "http://localhost:4000/articles/employee-referral/",
+      "link"			: "http://rowthiram.com/articles/employee-referral/",
       "excerpt"		: "Why employee referrals? Here are the top 6 reasons why companies recruit people by reference…"
     }
   
@@ -67,7 +67,7 @@
   
     ,{
       "title"			: "Welcome to Rowthiram.",
-      "link"			: "http://localhost:4000/articles/welcome-to-rowthiram/",
+      "link"			: "http://rowthiram.com/articles/welcome-to-rowthiram/",
       "excerpt"		: "Welcome to Rowthiram!"
     }
   
@@ -79,30 +79,14 @@
   
 
   
-    ,{
-      "title"			: "Contact Rowthiram",
-      "link"			: "http://localhost:4000/contact/",
-      "excerpt"		: "A site crafted to play around with the technology around us."
-    }
-  
-
-  
 
   
 
   
     ,{
       "title"			: "About Rowthiram Team",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://rowthiram.com/about/",
       "excerpt"		: "A site crafted to play around with the technology around us."
-    }
-  
-
-  
-    ,{
-      "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
-      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
 
@@ -111,8 +95,24 @@
   
     ,{
       "title"			: "Articles",
-      "link"			: "http://localhost:4000/articles/",
+      "link"			: "http://rowthiram.com/articles/",
       "excerpt"		: "An archive of articles sorted by date."
+    }
+  
+
+  
+    ,{
+      "title"			: "Contact Rowthiram",
+      "link"			: "http://rowthiram.com/contact/",
+      "excerpt"		: "A site crafted to play around with the technology around us."
+    }
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://rowthiram.com/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
 
