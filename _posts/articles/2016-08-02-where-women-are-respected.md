@@ -10,7 +10,7 @@ comments: true
 share: true
 modified: 2016-08-02T14:18:57+05:30
 image:
-  feature: gandhi.jpg
+  feature: so-simple-sample-image-2.jpg
 ---
 
 
@@ -27,6 +27,11 @@ At first when a girl baby is born, most Indians behave as if its a disgrace as d
 Atleat before marriage, was she actually allowed to follow her dreams?
 
 No! Not in most cases. 
+
+<figure style="margin-left:20%;">
+	<img src="/images/gandhi.jpg" alt="image">
+	<figcaption>Not every women's dream is to be married.</figcaption>
+</figure>
 
 Ironically, the first one to suppress a women is another women. When she wants to explore things,they are restricted saying that it is not meant for girls and when she fights her way out of it follows the bigger miseries. The problem starts with stalkers. Every month,there is atleast one news that somewhere a tech girl has been raped or murdered or both. The aftereffect of this, some parents who left their daughter to follow their dreams also start to restrict them. Why? Just why? You don't know how much we fought for a chance to pursue our dreams.
 
