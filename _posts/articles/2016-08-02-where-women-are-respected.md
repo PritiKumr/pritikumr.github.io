@@ -28,7 +28,7 @@ Atleat before marriage, was she actually allowed to follow her dreams?
 
 No! Not in most cases. 
 
-<figure style="margin-left:20%;">
+<figure>
 	<img src="/images/gandhi.jpg" alt="image">
 	<figcaption>Not every women's dream is to be married.</figcaption>
 </figure>
