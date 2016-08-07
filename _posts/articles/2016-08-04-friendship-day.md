@@ -33,7 +33,7 @@ share: true
 }
 </style>
 <body bgcolor="black" text="white" LINK="yellow" ALINK="red" VLINK="red">
-<div class="bounce"> Advance Happy Friendship Day <span id="myName"> </span> </div>
+<div class="bounce"> Happy Friendship Day <span id="myName"> </span> </div>
 <SCRIPT TYPE="text/javascript">
 /**
   * You may use this code for free on any web page provided that 
