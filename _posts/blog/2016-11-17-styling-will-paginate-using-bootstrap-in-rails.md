@@ -37,6 +37,10 @@ Now, its time to expeience the real magic. If you have a variable ```@posts```, 
 
 If everything goes successfully, you will get something like this
 
+<figure>
+	<img src="/images/pagination_result.png">
+</figure>
+
 
 For changing colors or design you have to override some defined classes. For example, to change the
 color of text written in block.
