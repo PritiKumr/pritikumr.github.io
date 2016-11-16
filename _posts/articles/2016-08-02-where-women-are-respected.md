@@ -26,7 +26,7 @@ At first when a girl baby is born, most Indians behave as if its a disgrace as d
 
 Atleat before marriage, was she actually allowed to follow her dreams?
 
-No! Not in most cases. 
+No! Not in most cases.
 
 <figure>
 	<img src="/images/gandhi.jpg" alt="image">

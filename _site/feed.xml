@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://rowthiram.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rowthiram.com/" rel="alternate" type="text/html" /><updated>2016-08-08T11:19:40+05:30</updated><id>http://rowthiram.com/</id><title>Rowthiram</title><subtitle>Stay Put. A blog trying to keep you engaged.</subtitle><entry><title>Women’s Privilege</title><link href="http://rowthiram.com/articles/where-women-are-respected/" rel="alternate" type="text/html" title="Women&#39;s Privilege" /><published>2016-08-02T13:25:35+05:30</published><updated>2016-08-02T13:25:35+05:30</updated><id>http://rowthiram.com/articles/where-women-are-respected</id><content type="html" xml:base="http://rowthiram.com/articles/where-women-are-respected/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Where women are respected, there the gods delight; and where they are not,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-17T01:25:50+05:30</updated><id>http://localhost:4000/</id><title>Rowthiram</title><subtitle>Stay Put. A blog trying to keep you engaged.</subtitle><entry><title>Styling will_paginate using bootstrap themes in rails</title><link href="http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/" rel="alternate" type="text/html" title="Styling will_paginate using bootstrap themes in rails" /><published>2016-11-17T01:14:11+05:30</published><updated>2016-11-17T01:14:11+05:30</updated><id>http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails</id><content type="html" xml:base="http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/">&lt;p&gt;Implemented pagination in rails using will_paginate, struggling to design it beautifully but stuck with tradtional UI. Many gems js plugins are there, but confused on what to use and should work out in first go. There is an amazing gem which will solve your problem in minutes. &lt;a href=&quot;https://rubygems.org/gems/will_paginate-bootstrap&quot;&gt;will_paginate-bootstrap&lt;/a&gt; makes your task very easy.&lt;/p&gt;
+
+&lt;p&gt;Today we will see how to style our pagination using will_paginate-bootstrap.&lt;/p&gt;
+
+&lt;p&gt;Add required gem to your Gemfile&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;will_paginate-bootstrap&#39;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;and run this in your command line.&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle install
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now, its time to expeience the real magic. If you have a variable &lt;code class=&quot;highlighter-rouge&quot;&gt;@posts&lt;/code&gt;, which your are using for pagination.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &amp;lt;%= will_paginate @posts, renderer: BootstrapPagination::Rails %&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If everything goes successfully, you will get something like this&lt;/p&gt;
+
+&lt;p&gt;For changing colors or design you have to override some defined classes. For example, to change the
+color of text written in block.&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.pagination&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;li&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;red&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Similarly we can override everything defined under the class &lt;code class=&quot;highlighter-rouge&quot;&gt;pagination&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;This has been tested with rails 4+ and rails 5+.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading it out. If it has worked for you. Don’t forget to ‘Share’.&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="will_paginate" /><category term="bootstrap" /><category term="rails" /><category term="UI" /><category term="styling" /><summary>Give a beautiful UII to will_paginate in rails.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;pagination.jpg&quot;}" /></entry><entry><title>Impact of demonetization on the life of Indian Businessmans.</title><link href="http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman/" rel="alternate" type="text/html" title="Impact of demonetization on the life of Indian Businessmans." /><published>2016-11-11T20:54:41+05:30</published><updated>2016-11-11T20:54:41+05:30</updated><id>http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman</id><content type="html" xml:base="http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman/">&lt;p&gt;Time has come for the historical reforms of the economy of India. I feel it is a one life time boldest movements by the Government of India. This scheme is going to impact the businesses, the aam admi, and financial institutions – all at some level or the other.
+The driving force behind this historical decision was to eradicate black money. A recent study had pegged India’s black market economy at over Rs 30 lakh crore or about 20 percent of total GDP. This is even bigger than the GDP’s of many countries.
+With this move in play, black money holders are left with only option to route this money through banks, declaring it to be their income. You know the after effects, the question arises that how did they earn that income? Their files would be subjected to scrutiny and huge taxes will be applicable. Even if they show this as income in the normal course of business, they will have to pay taxes on it as per current rate.
+Now let us come to our topic what effects would you find in BLG?? Following consequences/impact may happen and which can be identified:
+1.    Sudden decrease in Stock: A client can justify Cash deposit by realization of closing stock. There might be a mismatch of the stock in holding.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Realization of Debtors: Debtors will be realized to show cash in their account, which may imply the cash deposited is related to business activity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sudden increase in Sales: You may see a significant exponential growth in sales prior to cut-off date. (Due to back dated billing).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unusual increase in profit margin: A client might remove miscellaneous expenses from expenses head so that it will have effect on profit margin and cash in hand.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unusual increase in other Income: To justify the cash deposited, other income might be there in the name of Income from Tution, Professional Fees, and Commission Income etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gift Income: Cash taken as gift from relatives only, can be easily justified to account the cash deposited.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Steep increase in loan from Relatives: Cash might be deposited in relatives account and from there client can take as a loan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sale of Jewelry: If there is jewelry in Balance Sheet, cash deposited might be justified with the sale of jewelry.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Credit Summations: Credit summations in the period of October and November can be seen high as compared to other months.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Property Value: Property value is expected to reduce. Further, for enhancement cases, we need to be careful particularly where collateral cover is less than 100%.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Diversion of funds: The locker for black money are the sectors like Jewelry and real estate, now the gates are open where clients have less scope to divert their funds.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>surbhi_agrawal</name></author><category term="500 and 1000 notes" /><category term="demonetization" /><summary>A one life time boldest movements by the Government of India.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-2.jpg&quot;}" /></entry><entry><title>Women’s Privilege</title><link href="http://localhost:4000/articles/where-women-are-respected/" rel="alternate" type="text/html" title="Women&#39;s Privilege" /><published>2016-08-02T13:25:35+05:30</published><updated>2016-08-02T13:25:35+05:30</updated><id>http://localhost:4000/articles/where-women-are-respected</id><content type="html" xml:base="http://localhost:4000/articles/where-women-are-respected/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Where women are respected, there the gods delight; and where they are not,
  		there all works and efforts come to naught.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
@@ -26,7 +100,7 @@
 
 &lt;p&gt;&lt;strong&gt;If you educate a woman, you educate a family, if you educate a girl, you educate the future.&lt;/strong&gt; - Queen Rania of Jordan.&lt;/p&gt;
 
-&lt;p&gt;I don’t blame on the whole society. There are people who support a woman’s growth but still the cruelities continues to happen. We have identified the problem and also the solution.The problem is inequality and the solution is education. Implementation is in our hands,the future generation!!&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="women" /><category term="empowerment" /><category term="quality" /><summary>Where women are respected, there the gods delight; and where they are not, there all works and efforts come to naught.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-2.jpg&quot;}" /></entry><entry><title>5 Business rules on your fingertips.</title><link href="http://rowthiram.com/blog/five-rules-you-should-know-before-starting-your-business/" rel="alternate" type="text/html" title="5 Business rules on your fingertips." /><published>2016-07-30T13:59:24+05:30</published><updated>2016-07-30T13:59:24+05:30</updated><id>http://rowthiram.com/blog/five-rules-you-should-know-before-starting-your-business</id><content type="html" xml:base="http://rowthiram.com/blog/five-rules-you-should-know-before-starting-your-business/">&lt;h1 id=&quot;key-points-of-a-business&quot;&gt;KEY POINTS OF A BUSINESS&lt;/h1&gt;
+&lt;p&gt;I don’t blame on the whole society. There are people who support a woman’s growth but still the cruelities continues to happen. We have identified the problem and also the solution.The problem is inequality and the solution is education. Implementation is in our hands,the future generation!!&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="women" /><category term="empowerment" /><category term="quality" /><summary>Where women are respected, there the gods delight; and where they are not, there all works and efforts come to naught.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-2.jpg&quot;}" /></entry><entry><title>5 Business rules on your fingertips.</title><link href="http://localhost:4000/blog/five-rules-you-should-know-before-starting-your-business/" rel="alternate" type="text/html" title="5 Business rules on your fingertips." /><published>2016-07-30T13:59:24+05:30</published><updated>2016-07-30T13:59:24+05:30</updated><id>http://localhost:4000/blog/five-rules-you-should-know-before-starting-your-business</id><content type="html" xml:base="http://localhost:4000/blog/five-rules-you-should-know-before-starting-your-business/">&lt;h1 id=&quot;key-points-of-a-business&quot;&gt;KEY POINTS OF A BUSINESS&lt;/h1&gt;
 
 &lt;p&gt;Business is a word which is used as a fashion trend these days and even sometimes referred with a  different name “startup”. People who have money or have a different idea start converting that idea into a product that could be sold.&lt;/p&gt;
 
@@ -56,7 +130,7 @@
 
 &lt;p&gt;&lt;em&gt;For the closing lines I will just give one  advice, whatever you do,  it should solve problem of atleast one person . So before starting with anything always do a good market research.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Keep making money ;)&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="business" /><category term="ideas" /><summary>Business is a long term process, it’s not just a cycle of 1 or 2 years, but it’s a cycle of your whole life and it should continue even after your death.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;business.jpg&quot;}" /></entry><entry><title>Start investing in just 5 minutes.</title><link href="http://rowthiram.com/blog/start-investing-in-stock-market-in-just-5-minutes/" rel="alternate" type="text/html" title="Start investing in just 5 minutes." /><published>2016-07-25T13:59:24+05:30</published><updated>2016-07-25T13:59:24+05:30</updated><id>http://rowthiram.com/blog/start-investing-in-stock-market-in-just-5-minutes</id><content type="html" xml:base="http://rowthiram.com/blog/start-investing-in-stock-market-in-just-5-minutes/">&lt;h1 id=&quot;stock-market-investment&quot;&gt;STOCK MARKET INVESTMENT&lt;/h1&gt;
+&lt;p&gt;Keep making money ;)&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="business" /><category term="ideas" /><summary>Business is a long term process, it’s not just a cycle of 1 or 2 years, but it’s a cycle of your whole life and it should continue even after your death.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;business.jpg&quot;}" /></entry><entry><title>Start investing in just 5 minutes.</title><link href="http://localhost:4000/blog/start-investing-in-stock-market-in-just-5-minutes/" rel="alternate" type="text/html" title="Start investing in just 5 minutes." /><published>2016-07-25T13:59:24+05:30</published><updated>2016-07-25T13:59:24+05:30</updated><id>http://localhost:4000/blog/start-investing-in-stock-market-in-just-5-minutes</id><content type="html" xml:base="http://localhost:4000/blog/start-investing-in-stock-market-in-just-5-minutes/">&lt;h1 id=&quot;stock-market-investment&quot;&gt;STOCK MARKET INVESTMENT&lt;/h1&gt;
 
 &lt;p&gt;If you are salaried employee and thinking where to invest your money to get the maximum percentage of interest, then you have landed on the right page, investing in share market is the best option.&lt;/p&gt;
 
@@ -108,7 +182,7 @@ profit to their shareholders, they give that money to all of their shareholders 
 
 &lt;p&gt;Before starting in real, if you like to have some demo kind of thing where you can first try, there are some applications which does that. One of them is moneycontrol which I use personally. Moneycontrol mobile application is really good you can even whish list your company, and you will keep getting notifications about everydays growth.&lt;/p&gt;
 
-&lt;p&gt;Thank you for reading :)&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="stock market" /><category term="investment" /><summary>If you are salaried employee and thinking where to invest your money in, then you have landed to right page.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;stock-market.jpg&quot;}" /></entry><entry><title>How-to find best discounted products on Amazon.</title><link href="http://rowthiram.com/blog/how-to-find-great-deals-on-amazon/" rel="alternate" type="text/html" title="How-to find best discounted products on Amazon." /><published>2016-07-23T14:55:35+05:30</published><updated>2016-07-23T14:55:35+05:30</updated><id>http://rowthiram.com/blog/how-to-find-great-deals-on-amazon</id><content type="html" xml:base="http://rowthiram.com/blog/how-to-find-great-deals-on-amazon/">&lt;p&gt;How to find great deals on Amazon? Amazon already runs regular campaigns for user benefits. Although there are huge deals in amazon, there is no filter for us to sort the products we like based on the discount available for the product.&lt;/p&gt;
+&lt;p&gt;Thank you for reading :)&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="stock market" /><category term="investment" /><summary>If you are salaried employee and thinking where to invest your money in, then you have landed to right page.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;stock-market.jpg&quot;}" /></entry><entry><title>How-to find best discounted products on Amazon.</title><link href="http://localhost:4000/blog/how-to-find-great-deals-on-amazon/" rel="alternate" type="text/html" title="How-to find best discounted products on Amazon." /><published>2016-07-23T14:55:35+05:30</published><updated>2016-07-23T14:55:35+05:30</updated><id>http://localhost:4000/blog/how-to-find-great-deals-on-amazon</id><content type="html" xml:base="http://localhost:4000/blog/how-to-find-great-deals-on-amazon/">&lt;p&gt;How to find great deals on Amazon? Amazon already runs regular campaigns for user benefits. Although there are huge deals in amazon, there is no filter for us to sort the products we like based on the discount available for the product.&lt;/p&gt;
 
 &lt;p&gt;Let’s make use of a simple search element to get products with discounted price. It works on both Amazon.com and Amazon India.&lt;/p&gt;
 
@@ -188,7 +262,7 @@ profit to their shareholders, they give that money to all of their shareholders 
 &lt;p&gt;​
 Good luck with finding great deals on Amazon, if you do not have any available offers for the search just use different discount values to get more result.&lt;/p&gt;
 
-&lt;p&gt;Stay Put. :D&lt;/p&gt;</content><author><name>preethi_kr</name></author><category term="amazon" /><category term="website" /><category term="deals" /><category term="shopping" /><category term="shopping hacks" /><summary>Simple jugaad that can help you reduce your search for the best deal..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;amazon1.jpg&quot;}" /></entry><entry><title>Build and host your own site using Jekyll and Github Pages.</title><link href="http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/" rel="alternate" type="text/html" title="Build and host your own site using Jekyll and Github Pages." /><published>2016-07-22T14:55:35+05:30</published><updated>2016-07-22T14:55:35+05:30</updated><id>http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages</id><content type="html" xml:base="http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/">&lt;h2 id=&quot;build-your-own-static-site-and-host&quot;&gt;Build your own static site and host.&lt;/h2&gt;
+&lt;p&gt;Stay Put. :D&lt;/p&gt;</content><author><name>preethi_kr</name></author><category term="amazon" /><category term="website" /><category term="deals" /><category term="shopping" /><category term="shopping hacks" /><summary>Simple jugaad that can help you reduce your search for the best deal..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;amazon1.jpg&quot;}" /></entry><entry><title>Build and host your own site using Jekyll and Github Pages.</title><link href="http://localhost:4000/blog/build-and-host-a-website-with-jekyll-and-github-pages/" rel="alternate" type="text/html" title="Build and host your own site using Jekyll and Github Pages." /><published>2016-07-22T14:55:35+05:30</published><updated>2016-07-22T14:55:35+05:30</updated><id>http://localhost:4000/blog/build-and-host-a-website-with-jekyll-and-github-pages</id><content type="html" xml:base="http://localhost:4000/blog/build-and-host-a-website-with-jekyll-and-github-pages/">&lt;h2 id=&quot;build-your-own-static-site-and-host&quot;&gt;Build your own static site and host.&lt;/h2&gt;
 
 &lt;p&gt;Basic command line control will be a really good start for this tutorial. We’re gonna build a site and launch it.&lt;/p&gt;
 
@@ -327,7 +401,7 @@ $ git push origin gh-pages
 
 &lt;p&gt;After your push to the gh-pages branch, your Project Pages site will be available at &lt;em&gt;http(s)://GithubUsername.github.io/ProjectName&lt;/em&gt; . Note that Pages are always publicly accessible when published, even if their repository is private.&lt;/p&gt;
 
-&lt;p&gt;Happy building. :)&lt;/p&gt;</content><author><name>preethi_kr</name></author><category term="jekyll" /><category term="website" /><category term="github pages" /><category term="blog" /><category term="static site" /><summary>Websites are your identity that speak for you in the internet, setting them up can cost you much...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;how-to-build-website.png&quot;}" /></entry><entry><title>How-To Install Ubuntu.</title><link href="http://rowthiram.com/blog/how-to-install-ubuntu/" rel="alternate" type="text/html" title="How-To Install Ubuntu." /><published>2016-07-20T16:55:35+05:30</published><updated>2016-07-20T16:55:35+05:30</updated><id>http://rowthiram.com/blog/how-to-install-ubuntu</id><content type="html" xml:base="http://rowthiram.com/blog/how-to-install-ubuntu/">&lt;h1 id=&quot;ubuntu-installation&quot;&gt;UBUNTU INSTALLATION&lt;/h1&gt;
+&lt;p&gt;Happy building. :)&lt;/p&gt;</content><author><name>preethi_kr</name></author><category term="jekyll" /><category term="website" /><category term="github pages" /><category term="blog" /><category term="static site" /><summary>Websites are your identity that speak for you in the internet, setting them up can cost you much...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;how-to-build-website.png&quot;}" /></entry><entry><title>How-To Install Ubuntu.</title><link href="http://localhost:4000/blog/how-to-install-ubuntu/" rel="alternate" type="text/html" title="How-To Install Ubuntu." /><published>2016-07-20T16:55:35+05:30</published><updated>2016-07-20T16:55:35+05:30</updated><id>http://localhost:4000/blog/how-to-install-ubuntu</id><content type="html" xml:base="http://localhost:4000/blog/how-to-install-ubuntu/">&lt;h1 id=&quot;ubuntu-installation&quot;&gt;UBUNTU INSTALLATION&lt;/h1&gt;
 
 &lt;p&gt;While Ubuntu is one of the widely used Linux distros, getting your hands on it is a must-know thing for most people entering the software field.&lt;/p&gt;
 
@@ -436,7 +510,7 @@ $ git push origin gh-pages
 
 &lt;p&gt;Proceed to configue Time and Network settings.&lt;/p&gt;
 
-&lt;p&gt;And yes! We installed Ubuntu. Now start playing with it. Have Fun!&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="dual-boot" /><category term="ubuntu" /><category term="os" /><summary>Ubuntu is Linux based open source operating system which is basically designed for programming addicts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;ubuntu.jpg&quot;}" /></entry><entry><title>My First Job Experience</title><link href="http://rowthiram.com/articles/my-first-job-experience/" rel="alternate" type="text/html" title="My First Job Experience" /><published>2016-07-18T13:55:35+05:30</published><updated>2016-07-18T13:55:35+05:30</updated><id>http://rowthiram.com/articles/my-first-job-experience</id><content type="html" xml:base="http://rowthiram.com/articles/my-first-job-experience/">&lt;p&gt;&lt;em&gt;Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;And yes! We installed Ubuntu. Now start playing with it. Have Fun!&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="dual-boot" /><category term="ubuntu" /><category term="os" /><summary>Ubuntu is Linux based open source operating system which is basically designed for programming addicts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;ubuntu.jpg&quot;}" /></entry><entry><title>My First Job Experience</title><link href="http://localhost:4000/articles/my-first-job-experience/" rel="alternate" type="text/html" title="My First Job Experience" /><published>2016-07-18T13:55:35+05:30</published><updated>2016-07-18T13:55:35+05:30</updated><id>http://localhost:4000/articles/my-first-job-experience</id><content type="html" xml:base="http://localhost:4000/articles/my-first-job-experience/">&lt;p&gt;&lt;em&gt;Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;As a fresher,I joined an IT company as a software trainee.Since I am from EEE department,I was little nervous thinking whether I could survive in the company.Unlike other IT companies,Here for few weeks they thought us how to analyse a problem.After we came to an understanding of how to analyse a problem,the next phase of training started.&lt;/p&gt;
 
@@ -463,7 +537,7 @@ the page.Jquery effects,traversing functions and much more functions.It was very
 
 &lt;p&gt;After we completing validations.We were into the php training.Our pages were put into mvc architecture(Model View Controller).We created tables in mysql as defined in FSD and then started work on functionalities.The trainer taught us how to make a login page,some of the php functions,session and cookies.We had test on every Monday for four weeks.First three weeks it was theoritical and it consisted of logical questions.Some how we cleared our tests.I learnt how to use html inside php code and vice versa.PHP is like an ocean when we start exploring it,we start to realise how interesting the langauge is.All we have to do is get involved with it,start exploring it.When I first joined this company,I didn’t even know to define a class,method and declare a variable also.Now i have confidence,that i can create a web application on my own.Debugging an error in php is also an interesting factor.We learnt to use firebug,check page source and rectify the errors.Now the fourth phase has also been completed successfully and the journey with the company continues.&lt;/p&gt;
 
-&lt;p&gt;I’m gonna be sharing more of my posts until the world knows me. Stay connected. Cheers! :D&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee" /><category term="diary" /><category term="programming" /><summary>Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;my_first_job.jpg&quot;}" /></entry><entry><title>Illustrations Vs Words</title><link href="http://rowthiram.com/articles/illustrations-vs-words/" rel="alternate" type="text/html" title="Illustrations Vs Words" /><published>2016-07-15T17:25:35+05:30</published><updated>2016-07-15T17:25:35+05:30</updated><id>http://rowthiram.com/articles/illustrations-vs-words</id><content type="html" xml:base="http://rowthiram.com/articles/illustrations-vs-words/">&lt;p&gt;&lt;em&gt;4.5 Billion years ago&lt;/em&gt;, our beautiful Earth, round and blue came into the picture of solar system bundled with uniqueness talking for itself. A little later life found it’s way a few billion years later. Evolution took us for a ride bringing us to this point in time. Looking back to the early stages of human, there was some thing that was missing.&lt;/p&gt;
+&lt;p&gt;I’m gonna be sharing more of my posts until the world knows me. Stay connected. Cheers! :D&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee" /><category term="diary" /><category term="programming" /><summary>Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;my_first_job.jpg&quot;}" /></entry><entry><title>Illustrations Vs Words</title><link href="http://localhost:4000/articles/illustrations-vs-words/" rel="alternate" type="text/html" title="Illustrations Vs Words" /><published>2016-07-15T17:25:35+05:30</published><updated>2016-07-15T17:25:35+05:30</updated><id>http://localhost:4000/articles/illustrations-vs-words</id><content type="html" xml:base="http://localhost:4000/articles/illustrations-vs-words/">&lt;p&gt;&lt;em&gt;4.5 Billion years ago&lt;/em&gt;, our beautiful Earth, round and blue came into the picture of solar system bundled with uniqueness talking for itself. A little later life found it’s way a few billion years later. Evolution took us for a ride bringing us to this point in time. Looking back to the early stages of human, there was some thing that was missing.&lt;/p&gt;
 
 &lt;h6 id=&quot;what-was-it-not-sure&quot;&gt;What was it? Not Sure?&lt;/h6&gt;
 
@@ -487,43 +561,4 @@ the page.Jquery effects,traversing functions and much more functions.It was very
 
 &lt;p&gt;In my case, Ha ha ! I use more of words but I always wanted illustrations to be my primary source of communication. It gives me more knowledge and deepens my ability to understand things with ease.&lt;/p&gt;
 
-&lt;p&gt;Do you think the same way? Let me know. :D&lt;/p&gt;</content><author><name>venkat_subish</name></author><category term="language" /><category term="communication" /><category term="words" /><category term="interaction" /><summary>Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;venkat1.jpg&quot;}" /></entry><entry><title>Employee Referral</title><link href="http://rowthiram.com/articles/employee-referral/" rel="alternate" type="text/html" title="Employee Referral" /><published>2016-07-15T16:55:35+05:30</published><updated>2016-07-15T16:55:35+05:30</updated><id>http://rowthiram.com/articles/employee-referral</id><content type="html" xml:base="http://rowthiram.com/articles/employee-referral/">&lt;p&gt;Employee referrals are few of the most cost effective ways of employee recruitment and the best means to build man power required by the organization. Employee Referral is a simple internal recruitment method to interview and hire more employees through the referrals provided by their existing employees. Even though there are many ways for recruiting employee, 40% of companies opt for referral recruiting and you know why?&lt;/p&gt;
-
-&lt;p&gt;Here are the top 6 reasons why companies recruit people by reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;save-time&quot;&gt;SAVE TIME!&lt;/h2&gt;
-
-&lt;p&gt;Timing is everything. The recruitment process is small and easy than compared with other methods of recruiting and also people hired by reference start their new position sooner than their counterparts. Referred hires have job satisfaction and stay in the job for longer than the other recruiters.&lt;/p&gt;
-
-&lt;h2 id=&quot;save-money&quot;&gt;SAVE MONEY!&lt;/h2&gt;
-
-&lt;p&gt;Referral recruitment is the cheapest way for recruiting so economically it is the best way for recruitment. The company would always go for the way which is economically best&lt;/p&gt;
-
-&lt;h2 id=&quot;quality-is-important&quot;&gt;QUALITY IS IMPORTANT&lt;/h2&gt;
-
-&lt;p&gt;Most of the respondents feel that the referral recruiting is the best way for finding the best quality employee. With the increased demand for quality service and products, it has become important for companies to hire more skilled and productive employees. Research has shown that the employees who are hired through the various referral schemes are significantly better and more efficient than the ones hired through the other channels.&lt;/p&gt;
-
-&lt;h2 id=&quot;compatible&quot;&gt;COMPATIBLE&lt;/h2&gt;
-
-&lt;p&gt;Referred hires fit the company culture and values better because the referral already knows one of the employee and the company already. As the candidates who apply through other channels can be from any locality, or field of work, there are higher possibilities of them not being accustomed to the organization’s work environment.&lt;/p&gt;
-
-&lt;h2 id=&quot;immediate-results&quot;&gt;IMMEDIATE RESULTS&lt;/h2&gt;
-
-&lt;p&gt;With the growing unemployment and the demand for a more skilled workforce, employees are the best way of finding some quick leads and almost double the number of hires within a year. The referral bonuses are often lucrative and lead to a higher employee satisfaction.&lt;/p&gt;
-
-&lt;p&gt;If you are looking for a quick and easy way of generating more and more candidates to hire within your organization, employee referral scheme is certainly the best tactic that you can opt.&lt;/p&gt;
-
-&lt;h2 id=&quot;trust-is-all-that-matters&quot;&gt;TRUST IS ALL THAT MATTERS&lt;/h2&gt;
-
-&lt;p&gt;The employee knows the referral already thus the company would have full trust on the person through referral recruitment because even when the referral cheats the company or any misbehavior tends to happen still the person could be caught through the referred employee&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee-referral" /><category term="readability" /><category term="quality" /><summary>Why employee referrals? Here are the top 6 reasons why companies recruit people by reference...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;referral.png&quot;}" /></entry><entry><title>Welcome to Rowthiram.</title><link href="http://rowthiram.com/articles/welcome-to-rowthiram/" rel="alternate" type="text/html" title="Welcome to Rowthiram." /><published>2016-07-14T16:55:35+05:30</published><updated>2016-07-14T16:55:35+05:30</updated><id>http://rowthiram.com/articles/welcome-to-rowthiram</id><content type="html" xml:base="http://rowthiram.com/articles/welcome-to-rowthiram/">&lt;p&gt;Welcome to Rowthiram!&lt;/p&gt;
-
-&lt;h2 id=&quot;rowthiram&quot;&gt;Rowthiram&lt;/h2&gt;
-
-&lt;p&gt;Rowthiram is an initiative to bring in the most recent happenings in Technology. We would be updating the site continuously with more information.&lt;/p&gt;
-
-&lt;p&gt;We would also be rolling out many new tutorials and how-to posts to keep you updated over the happenings.&lt;/p&gt;
-
-&lt;p&gt;Stay Put.&lt;/p&gt;
-
-&lt;p&gt;Cheers,
-Team Rowthiram&lt;/p&gt;</content><author><name>preethi_kr</name></author><summary>Welcome to Rowthiram!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;198H.jpg&quot;}" /></entry></feed>
+&lt;p&gt;Do you think the same way? Let me know. :D&lt;/p&gt;</content><author><name>venkat_subish</name></author><category term="language" /><category term="communication" /><category term="words" /><category term="interaction" /><summary>Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;venkat1.jpg&quot;}" /></entry></feed>
