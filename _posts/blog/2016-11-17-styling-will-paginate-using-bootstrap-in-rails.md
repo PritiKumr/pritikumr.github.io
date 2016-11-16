@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Styling will_paginate using bootstrap themes in rails"
-excerpt: "Give a beautiful UII to will_paginate in rails."
+excerpt: "Give a beautiful UI to will_paginate in rails."
 categories: articles
 tags: [will_paginate, bootstrap, rails, UI, styling]
 author: shilpi_agrawal
