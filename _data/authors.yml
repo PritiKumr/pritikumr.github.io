@@ -29,7 +29,7 @@ venkat_subish:
 #     plus: CorneliusFiddlebone
 
 plasma:
-   name: RowBot 
+   name: RowBot
    email: deepthi.kumar07.04.2000@gmail.com
 #   bio: "I ordered what?"
    avatar: akk.png
@@ -42,6 +42,12 @@ shilpi_agrawal:
   email: shilpiagrawal516@gmail.com
   avatar: shilpi_agrawal.jpg
 
+krutika_kumari:
+  name: Krutika Kumari
+  email: krutikakumari@gmail.com
+  avatar: krutika_kr.PNG
+
 surbhi_agrawal:
   name: Surbhi Agrawal
+  email: suragrawal08@gmail.com
   avatar: akk.png

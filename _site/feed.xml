@@ -32,6 +32,7 @@ The way he nods, the way he listens to her encouraged her to speak more.&lt;/p&g
 One thing I want to say is to be available to people, listen to them. When your mom shares her daily troubles listen to her, many of us ignore that. Listen to them; listen to anyone who shares about their feelings.&lt;/p&gt;
 
 &lt;p&gt;Believe me it makes them feel better. Help them to feel better. For SOME, IT ACTUALLY SATISFIES THEIR SOUL.&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="listener" /><category term="life" /><category term="philosophy" /><summary>What is so special about finding a listener? Or what is going to change if you have anyone to listen to you?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-1.jpg&quot;}" /></entry><entry><title>Styling will_paginate using bootstrap themes in rails</title><link href="http://rowthiram.com/articles/styling-will-paginate-using-bootstrap-in-rails/" rel="alternate" type="text/html" title="Styling will_paginate using bootstrap themes in rails" /><published>2016-11-17T01:14:11+05:30</published><updated>2016-11-17T01:14:11+05:30</updated><id>http://rowthiram.com/articles/styling-will-paginate-using-bootstrap-in-rails</id><content type="html" xml:base="http://rowthiram.com/articles/styling-will-paginate-using-bootstrap-in-rails/">&lt;p&gt;Implemented pagination in rails using will_paginate, struggling to design it beautifully but stuck with tradtional UI. Many gems js plugins are there, but confused on what to use and should work out in first go. There is an amazing gem which will solve your problem in minutes. &lt;a href=&quot;https://rubygems.org/gems/will_paginate-bootstrap&quot;&gt;will_paginate-bootstrap&lt;/a&gt; makes your task very easy.&lt;/p&gt;
+>>>>>>> upstream/master
 
 &lt;p&gt;Today we will see how to style our pagination using will_paginate-bootstrap.&lt;/p&gt;
 
@@ -403,7 +404,7 @@ Configuration file: /home/preethi/NewSite/_config.yml
         Source: /home/preethi/NewSite
    Destination: /home/preethi/NewSite/_site
  Incremental build: disabled. Enable with --incremental
-      Generating... 
+      Generating...
                     done in 1.361 seconds.
  Auto-regeneration: disabled. Use --watch to enable.
 &lt;/code&gt;&lt;/pre&gt;
@@ -416,7 +417,7 @@ Configuration file: /home/preethi/NewSite/_config.yml
         Source: /home/preethi/NewSite
    Destination: /home/preethi/NewSite/_site
  Incremental build: disabled. Enable with --incremental
-      Generating... 
+      Generating...
                     done in 1.352 seconds.
  Auto-regeneration: enabled for &#39;/home/preethi/NewSite&#39;
 Configuration file: /home/preethi/NewSite/_config.yml
@@ -579,4 +580,32 @@ the page.Jquery effects,traversing functions and much more functions.It was very
 
 &lt;p&gt;After we completing validations.We were into the php training.Our pages were put into mvc architecture(Model View Controller).We created tables in mysql as defined in FSD and then started work on functionalities.The trainer taught us how to make a login page,some of the php functions,session and cookies.We had test on every Monday for four weeks.First three weeks it was theoritical and it consisted of logical questions.Some how we cleared our tests.I learnt how to use html inside php code and vice versa.PHP is like an ocean when we start exploring it,we start to realise how interesting the langauge is.All we have to do is get involved with it,start exploring it.When I first joined this company,I didn’t even know to define a class,method and declare a variable also.Now i have confidence,that i can create a web application on my own.Debugging an error in php is also an interesting factor.We learnt to use firebug,check page source and rectify the errors.Now the fourth phase has also been completed successfully and the journey with the company continues.&lt;/p&gt;
 
+<<<<<<< HEAD
+&lt;p&gt;I’m gonna be sharing more of my posts until the world knows me. Stay connected. Cheers! :D&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee" /><category term="diary" /><category term="programming" /><summary>Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;my_first_job.jpg&quot;}" /></entry><entry><title>Illustrations Vs Words</title><link href="http://localhost:4000/articles/illustrations-vs-words/" rel="alternate" type="text/html" title="Illustrations Vs Words" /><published>2016-07-15T17:25:35+05:30</published><updated>2016-07-15T17:25:35+05:30</updated><id>http://localhost:4000/articles/illustrations-vs-words</id><content type="html" xml:base="http://localhost:4000/articles/illustrations-vs-words/">&lt;p&gt;&lt;em&gt;4.5 Billion years ago&lt;/em&gt;, our beautiful Earth, round and blue came into the picture of solar system bundled with uniqueness talking for itself. A little later life found it’s way a few billion years later. Evolution took us for a ride bringing us to this point in time. Looking back to the early stages of human, there was some thing that was missing.&lt;/p&gt;
+
+&lt;h6 id=&quot;what-was-it-not-sure&quot;&gt;What was it? Not Sure?&lt;/h6&gt;
+
+&lt;p&gt;&lt;em&gt;Communication&lt;/em&gt;, without which life would be really boring. Now, we communicate using words but what about some million years ago?&lt;/p&gt;
+
+&lt;p&gt;No alphabets. No words. Yet our ancestors managed to survive without words for communication. Isn’t that something amazing to even think about. :D&lt;/p&gt;
+
+&lt;p&gt;But how did they communicate? How?&lt;/p&gt;
+
+&lt;h6 id=&quot;umm-illustrations&quot;&gt;Umm, Illustrations.&lt;/h6&gt;
+
+&lt;p&gt;Our ancestors communicated with their neighbours using illustrations. What is Illustration? Now stop thinking technically. :P&lt;/p&gt;
+
+&lt;p&gt;Its nothing but the action or means of illustrating something. Doesn’t stop with just that. Hmm, It also mean as expressing by as Drawings or Designs. Cool. Ain’t it?&lt;/p&gt;
+
+&lt;p&gt;Old sculptures, statues, art works always stand an epitome for how cool communication was earlier. The beautiful and intricate Illustrations in it shows us Illustration was the main key for communication those days. It made people understand things easily and it also helped the differently abled(deaf and dumb) to not really think themselves any lesser people. But, as days and years passed with technological advancements people started to forget the beauty in communication using Illustrations. I see people using more of words to communicate and not the illustrations.&lt;/p&gt;
+
+&lt;p&gt;I feel so bad to see the world putting an end to a beautiful art of communication. If Illustration was the key for communication in 2016 and not words , there is absolutely no need for any languages or translators to communicate. It would have made world more united and simple to survive.&lt;/p&gt;
+
+&lt;p&gt;Words are just too complicated. Are they not? By the way, too ambuiguous.&lt;/p&gt;
+
+&lt;p&gt;In my case, Ha ha ! I use more of words but I always wanted illustrations to be my primary source of communication. It gives me more knowledge and deepens my ability to understand things with ease.&lt;/p&gt;
+
+&lt;p&gt;Do you think the same way? Let me know. :D&lt;/p&gt;</content><author><name>venkat_subish</name></author><category term="language" /><category term="communication" /><category term="words" /><category term="interaction" /><summary>Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;venkat1.jpg&quot;}" /></entry></feed>
+=======
 &lt;p&gt;I’m gonna be sharing more of my posts until the world knows me. Stay connected. Cheers! :D&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee" /><category term="diary" /><category term="programming" /><summary>Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://rowthiram.com{&quot;feature&quot;=&gt;&quot;my_first_job.jpg&quot;}" /></entry></feed>
+>>>>>>> upstream/master
