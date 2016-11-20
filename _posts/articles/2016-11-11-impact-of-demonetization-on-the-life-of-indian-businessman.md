@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impact of demonetization on the life of Indian Businessmans."
-excerpt: "A one life time boldest movements by the Government of India."
+excerpt: "A one life time boldest move by the Government of India."
 categories: articles
 tags: ["500 and 1000 notes", "demonetization"]
 author: surbhi_agrawal
@@ -10,13 +10,17 @@ comments: true
 share: true
 modified: 2016-11-11 20:54:41 +0530
 image:
-  feature: so-simple-sample-image-2.jpg
+  feature: so-simple-sample-image-6.jpg
 ---
 
-Time has come for the historical reforms of the economy of India. I feel it is a one life time boldest movements by the Government of India. This scheme is going to impact the businesses, the aam admi, and financial institutions – all at some level or the other.
+Time has come for the historical reforms of the economy of India. I feel it is a one life time boldest movements by the Government of India. This scheme is going to impact the businesses, the Aam Admi, and financial institutions – all at some level or the other.
+
 The driving force behind this historical decision was to eradicate black money. A recent study had pegged India’s black market economy at over Rs 30 lakh crore or about 20 percent of total GDP. This is even bigger than the GDP’s of many countries.
+
 With this move in play, black money holders are left with only option to route this money through banks, declaring it to be their income. You know the after effects, the question arises that how did they earn that income? Their files would be subjected to scrutiny and huge taxes will be applicable. Even if they show this as income in the normal course of business, they will have to pay taxes on it as per current rate.
+
 Now let us come to our topic what effects would you find in BLG?? Following consequences/impact may happen and which can be identified:
+
 1.    Sudden decrease in Stock: A client can justify Cash deposit by realization of closing stock. There might be a mismatch of the stock in holding.
 
 2.    Realization of Debtors: Debtors will be realized to show cash in their account, which may imply the cash deposited is related to business activity.
