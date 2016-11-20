@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Smartphone - Indispensible or not?",
+      "link"			: "http://localhost:4000/articles/smartphone_indispensible_or_not/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Styling will_paginate using bootstrap themes in rails",
       "link"			: "http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/",
       "excerpt"		: "Give a beautiful UI to will_paginate in rails."

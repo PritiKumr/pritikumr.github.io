@@ -27,7 +27,7 @@ Email: <a href="mailto:priyaaa23.pd@gmail.com"> priyaaa23.pd@gmail.com </a>
 
 ## Venkat Subish
 
-Dreamer. Lunatic. Crazy. He's got more names. A EEE graduate with great passion for Electronics, lives and loves whatever he does. Got great talent in Designing things. 
+Dreamer. Lunatic. Crazy. He's got more names. A EEE graduate with great passion for Electronics, lives and loves whatever he does. Got great talent in Designing things.
 
 Email: <a href="mailto:venkat.subish@gmail.com"> venkat.subish@gmail.com </a>
 
@@ -43,7 +43,7 @@ By profession and degree acquired she is a computer engineer. She lives on open 
 Email: <a href="mailto:shilpiagrawal516@gmail.com"> shilpiagrawal516@gmail.com </a>
 
 <figure>
-	<img style="; height: 150px; width: 150px; border-radius: 50%;" src="/images/shilpi_agrawal.jpg">
+	<img style="height: 150px; width: 150px; border-radius: 50%;" src="/images/shilpi_agrawal.jpg">
 </figure>
 
 
@@ -55,4 +55,14 @@ Email: <a href="mailto:priti922474@gmail.com"> priti922474@gmail.com </a>
 
 <figure>
 	<img style="  height: 150px; width: 150px; border-radius: 50%;" src="/images/preethi_kr.jpg">
+</figure>
+
+## Krutika Kumari
+
+Engineer by profession, exploring the creative side of me.
+
+Email: <a href="mailto:krutikakumari@gmail.com"> krutikakumari@gmail.com </a>
+
+<figure>
+	<img style="height: 150px; width: 150px; border-radius: 50%;" src="/images/krutika_kr.jpg">
 </figure>
