@@ -2,9 +2,25 @@
 
   
     {
+      "title"			: "Why everyone deserves A LISTENER?",
+      "link"			: "http://localhost:4000/articles/why-everyone-deserves-a-listener/",
+      "excerpt"		: "What is so special about finding a listener? Or what is going to change if you have anyone to listen to you?"
+    }
+  
+
+  
+    ,{
       "title"			: "Styling will_paginate using bootstrap themes in rails",
       "link"			: "http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/",
       "excerpt"		: "Give a beautiful UI to will_paginate in rails."
+    }
+  
+
+  
+    ,{
+      "title"			: "Impact of demonetization on the life of Indian Businessmans.",
+      "link"			: "http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman/",
+      "excerpt"		: "A one life time boldest move by the Government of India."
     }
   
 
@@ -95,24 +111,6 @@
   
 
   
-    ,{
-      "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
-      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
-    }
-  
-
-  
-
-  
-
-  
-    ,{
-      "title"			: "Contact Rowthiram",
-      "link"			: "http://localhost:4000/contact/",
-      "excerpt"		: "A site crafted to play around with the technology around us."
-    }
-  
 
   
 
@@ -125,10 +123,28 @@
   
 
   
+
+  
     ,{
       "title"			: "Articles",
       "link"			: "http://localhost:4000/articles/",
       "excerpt"		: "An archive of articles sorted by date."
+    }
+  
+
+  
+    ,{
+      "title"			: "Contact Rowthiram",
+      "link"			: "http://localhost:4000/contact/",
+      "excerpt"		: "A site crafted to play around with the technology around us."
+    }
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://localhost:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
 

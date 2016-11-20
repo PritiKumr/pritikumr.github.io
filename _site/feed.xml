@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-17T01:46:47+05:30</updated><id>http://localhost:4000/</id><title>Rowthiram</title><subtitle>Stay Put. A blog trying to keep you engaged.</subtitle><entry><title>Styling will_paginate using bootstrap themes in rails</title><link href="http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/" rel="alternate" type="text/html" title="Styling will_paginate using bootstrap themes in rails" /><published>2016-11-17T01:14:11+05:30</published><updated>2016-11-17T01:14:11+05:30</updated><id>http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails</id><content type="html" xml:base="http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/">&lt;p&gt;Implemented pagination in rails using will_paginate, struggling to design it beautifully but stuck with tradtional UI. Many gems js plugins are there, but confused on what to use and should work out in first go. There is an amazing gem which will solve your problem in minutes. &lt;a href=&quot;https://rubygems.org/gems/will_paginate-bootstrap&quot;&gt;will_paginate-bootstrap&lt;/a&gt; makes your task very easy.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-20T16:20:08+05:30</updated><id>http://localhost:4000/</id><title>Rowthiram</title><subtitle>Stay Put. A blog trying to keep you engaged.</subtitle><entry><title>Why everyone deserves A LISTENER?</title><link href="http://localhost:4000/articles/why-everyone-deserves-a-listener/" rel="alternate" type="text/html" title="Why everyone deserves A LISTENER?" /><published>2016-11-19T16:55:35+05:30</published><updated>2016-11-19T16:55:35+05:30</updated><id>http://localhost:4000/articles/why-everyone-deserves-a-listener</id><content type="html" xml:base="http://localhost:4000/articles/why-everyone-deserves-a-listener/">&lt;p&gt;In this fast growing world, there is no time for anyone to speak or share upon their feelings.&lt;/p&gt;
+
+&lt;p&gt;I just wanted to share a success story about a girl who always longed for a listener &lt;/p&gt;
+
+&lt;p&gt;You may think what is so special about finding a listener? Or what is going to change if you have anyone to listen to you? Actually it makes a hell a lot of difference.&lt;/p&gt;
+
+&lt;p&gt;Let me begin this story!
+A girl named is Tina (Imaginary of coourse :P). Tina is a kind of girl who thinks a lot. She observes every small thing around her and starts thinking about it. She thinks about life, movies, love, physics, stars, philosophy, programming, etc. and keeps everything inside herself because when she tries to share her thoughts with people, they either don’t have time for her or pretends as if they are hearing to what she says.&lt;/p&gt;
+
+&lt;p&gt;I know now you may think, what is so sad about not having a listener.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Having a listener is like a stress buster&lt;/em&gt;, it also satisfies your soul. Tina being in her young age already gone through many unfortunate happenings, (I would share about that in my next article) wanted to come out of it. Speak out to people because talking is the best therapy. Of course she had friends but they were busy with their own life and she couldn’t blame upon them either because that’s all about life.&lt;/p&gt;
+
+&lt;p&gt;People run behind things and forget to live their moments.&lt;/p&gt;
+
+&lt;p&gt;One day, she met a guy (DON’T ASK ME HOW). A new person in her life both started to share upon their interests.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Him: I like to speak about a lot of things ranging from physics till business, but I don’t find anyone to hear them. You know as it is nerdy-nerdy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tina: I hear to people. I like doing that so that they will hear to me.
+(Hahaha yeah it was like a pick up line). **&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And they started to speak, speak, speak and yet have some more topics to be spoken on.
+Actually, she was the one who was speaking continuously. She spoke everything what came to her mind. She has never been so comfortable with anyone to speak all her mind out.
+The way he nods, the way he listens to her encouraged her to speak more.&lt;/p&gt;
+
+&lt;p&gt;One should be blessed to have any such listener. It makes us to feel contended.
+One thing I want to say is to be available to people, listen to them. When your mom shares her daily troubles listen to her, many of us ignore that. Listen to them; listen to anyone who shares about their feelings.&lt;/p&gt;
+
+&lt;p&gt;Believe me it makes them feel better. Help them to feel better. For SOME, IT ACTUALLY SATISFIES THEIR SOUL.&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="listener" /><category term="life" /><category term="philosophy" /><summary>What is so special about finding a listener? Or what is going to change if you have anyone to listen to you?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-6.jpg&quot;}" /></entry><entry><title>Styling will_paginate using bootstrap themes in rails</title><link href="http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/" rel="alternate" type="text/html" title="Styling will_paginate using bootstrap themes in rails" /><published>2016-11-17T01:14:11+05:30</published><updated>2016-11-17T01:14:11+05:30</updated><id>http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails</id><content type="html" xml:base="http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/">&lt;p&gt;Implemented pagination in rails using will_paginate, struggling to design it beautifully but stuck with tradtional UI. Many gems js plugins are there, but confused on what to use and should work out in first go. There is an amazing gem which will solve your problem in minutes. &lt;a href=&quot;https://rubygems.org/gems/will_paginate-bootstrap&quot;&gt;will_paginate-bootstrap&lt;/a&gt; makes your task very easy.&lt;/p&gt;
 
 &lt;p&gt;Today we will see how to style our pagination using will_paginate-bootstrap.&lt;/p&gt;
 
@@ -39,7 +72,49 @@ color of text written in block.&lt;/p&gt;
 
 &lt;p&gt;This has been tested with rails 4+ and rails 5+.&lt;/p&gt;
 
-&lt;p&gt;Thank you for reading it out. If it has worked for you. Don’t forget to ‘Share’.&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="will_paginate" /><category term="bootstrap" /><category term="rails" /><category term="UI" /><category term="styling" /><summary>Give a beautiful UI to will_paginate in rails.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;pagination.jpg&quot;}" /></entry><entry><title>Women’s Privilege</title><link href="http://localhost:4000/articles/where-women-are-respected/" rel="alternate" type="text/html" title="Women&#39;s Privilege" /><published>2016-08-02T13:25:35+05:30</published><updated>2016-08-02T13:25:35+05:30</updated><id>http://localhost:4000/articles/where-women-are-respected</id><content type="html" xml:base="http://localhost:4000/articles/where-women-are-respected/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Where women are respected, there the gods delight; and where they are not,
+&lt;p&gt;Thank you for reading it out. If it has worked for you. Don’t forget to ‘Share’.&lt;/p&gt;</content><author><name>shilpi_agrawal</name></author><category term="will_paginate" /><category term="bootstrap" /><category term="rails" /><category term="UI" /><category term="styling" /><summary>Give a beautiful UI to will_paginate in rails.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;pagination.jpg&quot;}" /></entry><entry><title>Impact of demonetization on the life of Indian Businessmans.</title><link href="http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman/" rel="alternate" type="text/html" title="Impact of demonetization on the life of Indian Businessmans." /><published>2016-11-11T20:54:41+05:30</published><updated>2016-11-11T20:54:41+05:30</updated><id>http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman</id><content type="html" xml:base="http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman/">&lt;p&gt;Time has come for the historical reforms of the economy of India. I feel it is a one life time boldest movements by the Government of India. This scheme is going to impact the businesses, the Aam Admi, and financial institutions – all at some level or the other.&lt;/p&gt;
+
+&lt;p&gt;The driving force behind this historical decision was to eradicate black money. A recent study had pegged India’s black market economy at over Rs 30 lakh crore or about 20 percent of total GDP. This is even bigger than the GDP’s of many countries.&lt;/p&gt;
+
+&lt;p&gt;With this move in play, black money holders are left with only option to route this money through banks, declaring it to be their income. You know the after effects, the question arises that how did they earn that income? Their files would be subjected to scrutiny and huge taxes will be applicable. Even if they show this as income in the normal course of business, they will have to pay taxes on it as per current rate.&lt;/p&gt;
+
+&lt;p&gt;Now let us come to our topic what effects would you find in BLG?? Following consequences/impact may happen and which can be identified:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sudden decrease in Stock: A client can justify Cash deposit by realization of closing stock. There might be a mismatch of the stock in holding.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Realization of Debtors: Debtors will be realized to show cash in their account, which may imply the cash deposited is related to business activity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sudden increase in Sales: You may see a significant exponential growth in sales prior to cut-off date. (Due to back dated billing).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unusual increase in profit margin: A client might remove miscellaneous expenses from expenses head so that it will have effect on profit margin and cash in hand.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unusual increase in other Income: To justify the cash deposited, other income might be there in the name of Income from Tution, Professional Fees, and Commission Income etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gift Income: Cash taken as gift from relatives only, can be easily justified to account the cash deposited.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Steep increase in loan from Relatives: Cash might be deposited in relatives account and from there client can take as a loan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sale of Jewelry: If there is jewelry in Balance Sheet, cash deposited might be justified with the sale of jewelry.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Credit Summations: Credit summations in the period of October and November can be seen high as compared to other months.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Property Value: Property value is expected to reduce. Further, for enhancement cases, we need to be careful particularly where collateral cover is less than 100%.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Diversion of funds: The locker for black money are the sectors like Jewelry and real estate, now the gates are open where clients have less scope to divert their funds.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>surbhi_agrawal</name></author><category term="500 and 1000 notes" /><category term="demonetization" /><summary>A one life time boldest move by the Government of India.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-6.jpg&quot;}" /></entry><entry><title>Women’s Privilege</title><link href="http://localhost:4000/articles/where-women-are-respected/" rel="alternate" type="text/html" title="Women&#39;s Privilege" /><published>2016-08-02T13:25:35+05:30</published><updated>2016-08-02T13:25:35+05:30</updated><id>http://localhost:4000/articles/where-women-are-respected</id><content type="html" xml:base="http://localhost:4000/articles/where-women-are-respected/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Where women are respected, there the gods delight; and where they are not,
  		there all works and efforts come to naught.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
@@ -504,56 +579,4 @@ the page.Jquery effects,traversing functions and much more functions.It was very
 
 &lt;p&gt;After we completing validations.We were into the php training.Our pages were put into mvc architecture(Model View Controller).We created tables in mysql as defined in FSD and then started work on functionalities.The trainer taught us how to make a login page,some of the php functions,session and cookies.We had test on every Monday for four weeks.First three weeks it was theoritical and it consisted of logical questions.Some how we cleared our tests.I learnt how to use html inside php code and vice versa.PHP is like an ocean when we start exploring it,we start to realise how interesting the langauge is.All we have to do is get involved with it,start exploring it.When I first joined this company,I didn’t even know to define a class,method and declare a variable also.Now i have confidence,that i can create a web application on my own.Debugging an error in php is also an interesting factor.We learnt to use firebug,check page source and rectify the errors.Now the fourth phase has also been completed successfully and the journey with the company continues.&lt;/p&gt;
 
-&lt;p&gt;I’m gonna be sharing more of my posts until the world knows me. Stay connected. Cheers! :D&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee" /><category term="diary" /><category term="programming" /><summary>Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;my_first_job.jpg&quot;}" /></entry><entry><title>Illustrations Vs Words</title><link href="http://localhost:4000/articles/illustrations-vs-words/" rel="alternate" type="text/html" title="Illustrations Vs Words" /><published>2016-07-15T17:25:35+05:30</published><updated>2016-07-15T17:25:35+05:30</updated><id>http://localhost:4000/articles/illustrations-vs-words</id><content type="html" xml:base="http://localhost:4000/articles/illustrations-vs-words/">&lt;p&gt;&lt;em&gt;4.5 Billion years ago&lt;/em&gt;, our beautiful Earth, round and blue came into the picture of solar system bundled with uniqueness talking for itself. A little later life found it’s way a few billion years later. Evolution took us for a ride bringing us to this point in time. Looking back to the early stages of human, there was some thing that was missing.&lt;/p&gt;
-
-&lt;h6 id=&quot;what-was-it-not-sure&quot;&gt;What was it? Not Sure?&lt;/h6&gt;
-
-&lt;p&gt;&lt;em&gt;Communication&lt;/em&gt;, without which life would be really boring. Now, we communicate using words but what about some million years ago?&lt;/p&gt;
-
-&lt;p&gt;No alphabets. No words. Yet our ancestors managed to survive without words for communication. Isn’t that something amazing to even think about. :D&lt;/p&gt;
-
-&lt;p&gt;But how did they communicate? How?&lt;/p&gt;
-
-&lt;h6 id=&quot;umm-illustrations&quot;&gt;Umm, Illustrations.&lt;/h6&gt;
-
-&lt;p&gt;Our ancestors communicated with their neighbours using illustrations. What is Illustration? Now stop thinking technically. :P&lt;/p&gt;
-
-&lt;p&gt;Its nothing but the action or means of illustrating something. Doesn’t stop with just that. Hmm, It also mean as expressing by as Drawings or Designs. Cool. Ain’t it?&lt;/p&gt;
-
-&lt;p&gt;Old sculptures, statues, art works always stand an epitome for how cool communication was earlier. The beautiful and intricate Illustrations in it shows us Illustration was the main key for communication those days. It made people understand things easily and it also helped the differently abled(deaf and dumb) to not really think themselves any lesser people. But, as days and years passed with technological advancements people started to forget the beauty in communication using Illustrations. I see people using more of words to communicate and not the illustrations.&lt;/p&gt;
-
-&lt;p&gt;I feel so bad to see the world putting an end to a beautiful art of communication. If Illustration was the key for communication in 2016 and not words , there is absolutely no need for any languages or translators to communicate. It would have made world more united and simple to survive.&lt;/p&gt;
-
-&lt;p&gt;Words are just too complicated. Are they not? By the way, too ambuiguous.&lt;/p&gt;
-
-&lt;p&gt;In my case, Ha ha ! I use more of words but I always wanted illustrations to be my primary source of communication. It gives me more knowledge and deepens my ability to understand things with ease.&lt;/p&gt;
-
-&lt;p&gt;Do you think the same way? Let me know. :D&lt;/p&gt;</content><author><name>venkat_subish</name></author><category term="language" /><category term="communication" /><category term="words" /><category term="interaction" /><summary>Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;venkat1.jpg&quot;}" /></entry><entry><title>Employee Referral</title><link href="http://localhost:4000/articles/employee-referral/" rel="alternate" type="text/html" title="Employee Referral" /><published>2016-07-15T16:55:35+05:30</published><updated>2016-07-15T16:55:35+05:30</updated><id>http://localhost:4000/articles/employee-referral</id><content type="html" xml:base="http://localhost:4000/articles/employee-referral/">&lt;p&gt;Employee referrals are few of the most cost effective ways of employee recruitment and the best means to build man power required by the organization. Employee Referral is a simple internal recruitment method to interview and hire more employees through the referrals provided by their existing employees. Even though there are many ways for recruiting employee, 40% of companies opt for referral recruiting and you know why?&lt;/p&gt;
-
-&lt;p&gt;Here are the top 6 reasons why companies recruit people by reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;save-time&quot;&gt;SAVE TIME!&lt;/h2&gt;
-
-&lt;p&gt;Timing is everything. The recruitment process is small and easy than compared with other methods of recruiting and also people hired by reference start their new position sooner than their counterparts. Referred hires have job satisfaction and stay in the job for longer than the other recruiters.&lt;/p&gt;
-
-&lt;h2 id=&quot;save-money&quot;&gt;SAVE MONEY!&lt;/h2&gt;
-
-&lt;p&gt;Referral recruitment is the cheapest way for recruiting so economically it is the best way for recruitment. The company would always go for the way which is economically best&lt;/p&gt;
-
-&lt;h2 id=&quot;quality-is-important&quot;&gt;QUALITY IS IMPORTANT&lt;/h2&gt;
-
-&lt;p&gt;Most of the respondents feel that the referral recruiting is the best way for finding the best quality employee. With the increased demand for quality service and products, it has become important for companies to hire more skilled and productive employees. Research has shown that the employees who are hired through the various referral schemes are significantly better and more efficient than the ones hired through the other channels.&lt;/p&gt;
-
-&lt;h2 id=&quot;compatible&quot;&gt;COMPATIBLE&lt;/h2&gt;
-
-&lt;p&gt;Referred hires fit the company culture and values better because the referral already knows one of the employee and the company already. As the candidates who apply through other channels can be from any locality, or field of work, there are higher possibilities of them not being accustomed to the organization’s work environment.&lt;/p&gt;
-
-&lt;h2 id=&quot;immediate-results&quot;&gt;IMMEDIATE RESULTS&lt;/h2&gt;
-
-&lt;p&gt;With the growing unemployment and the demand for a more skilled workforce, employees are the best way of finding some quick leads and almost double the number of hires within a year. The referral bonuses are often lucrative and lead to a higher employee satisfaction.&lt;/p&gt;
-
-&lt;p&gt;If you are looking for a quick and easy way of generating more and more candidates to hire within your organization, employee referral scheme is certainly the best tactic that you can opt.&lt;/p&gt;
-
-&lt;h2 id=&quot;trust-is-all-that-matters&quot;&gt;TRUST IS ALL THAT MATTERS&lt;/h2&gt;
-
-&lt;p&gt;The employee knows the referral already thus the company would have full trust on the person through referral recruitment because even when the referral cheats the company or any misbehavior tends to happen still the person could be caught through the referred employee&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee-referral" /><category term="readability" /><category term="quality" /><summary>Why employee referrals? Here are the top 6 reasons why companies recruit people by reference...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;referral.png&quot;}" /></entry></feed>
+&lt;p&gt;I’m gonna be sharing more of my posts until the world knows me. Stay connected. Cheers! :D&lt;/p&gt;</content><author><name>priya_dharsini</name></author><category term="employee" /><category term="diary" /><category term="programming" /><summary>Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;&quot;my_first_job.jpg&quot;}" /></entry></feed>
