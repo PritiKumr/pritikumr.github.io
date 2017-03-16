@@ -1,162 +1,173 @@
 [
 
-
+  
     {
+      "title"			: "Happiness starts with you",
+      "link"			: "http://localhost:4000/articles/hot-to-stay-happy/",
+      "excerpt"		: "Happiness starts with you…"
+    }
+  
+
+  
+    ,{
+      "title"			: "Smartphone - Indispensible or not?",
+      "link"			: "http://localhost:4000/articles/smartphone_indispensible_or_not/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Why everyone deserves A LISTENER?",
-      "link"			: "http://rowthiram.com/articles/why-everyone-deserves-a-listener/",
+      "link"			: "http://localhost:4000/articles/why-everyone-deserves-a-listener/",
       "excerpt"		: "What is so special about finding a listener? Or what is going to change if you have anyone to listen to you?"
     }
+  
 
-    ,{
-          "title"			: "Smartphone - Indispensible or not?",
-          "link"			: "http://rowthiram.com/articles/smartphone_indispensible_or_not/",
-          "excerpt"		: ""
-
-      }
-
+  
     ,{
       "title"			: "Styling will_paginate using bootstrap themes in rails",
-      "link"			: "http://rowthiram.com/articles/styling-will-paginate-using-bootstrap-in-rails/",
+      "link"			: "http://localhost:4000/articles/styling-will-paginate-using-bootstrap-in-rails/",
       "excerpt"		: "Give a beautiful UI to will_paginate in rails."
     }
+  
 
-
-
+  
     ,{
       "title"			: "Impact of demonetization on the life of Indian Businessmans.",
-      "link"			: "http://rowthiram.com/articles/impact-of-demonetization-on-the-life-of-indian-businessman/",
+      "link"			: "http://localhost:4000/articles/impact-of-demonetization-on-the-life-of-indian-businessman/",
       "excerpt"		: "A one life time boldest move by the Government of India."
     }
+  
 
-
-
+  
     ,{
       "title"			: "Women's Privilege",
-      "link"			: "http://rowthiram.com/articles/where-women-are-respected/",
+      "link"			: "http://localhost:4000/articles/where-women-are-respected/",
       "excerpt"		: "Where women are respected, there the gods delight; and where they are not, there all works and efforts come to naught."
     }
+  
 
-
-
+  
     ,{
       "title"			: "5 Business rules on your fingertips.",
-      "link"			: "http://rowthiram.com/blog/five-rules-you-should-know-before-starting-your-business/",
+      "link"			: "http://localhost:4000/blog/five-rules-you-should-know-before-starting-your-business/",
       "excerpt"		: "Business is a long term process, it’s not just a cycle of 1 or 2 years, but it’s a cycle of your whole life and it should continue even after your death."
     }
+  
 
-
-
+  
     ,{
       "title"			: "Start investing in just 5 minutes.",
-      "link"			: "http://rowthiram.com/blog/start-investing-in-stock-market-in-just-5-minutes/",
+      "link"			: "http://localhost:4000/blog/start-investing-in-stock-market-in-just-5-minutes/",
       "excerpt"		: "If you are salaried employee and thinking where to invest your money in, then you have landed to right page."
     }
+  
 
-
-
+  
     ,{
       "title"			: "How-to find best discounted products on Amazon.",
-      "link"			: "http://rowthiram.com/blog/how-to-find-great-deals-on-amazon/",
+      "link"			: "http://localhost:4000/blog/how-to-find-great-deals-on-amazon/",
       "excerpt"		: "Simple jugaad that can help you reduce your search for the best deal.."
     }
+  
 
-
-
+  
     ,{
       "title"			: "Build and host your own site using Jekyll and Github Pages.",
-      "link"			: "http://rowthiram.com/blog/build-and-host-a-website-with-jekyll-and-github-pages/",
+      "link"			: "http://localhost:4000/blog/build-and-host-a-website-with-jekyll-and-github-pages/",
       "excerpt"		: "Websites are your identity that speak for you in the internet, setting them up can cost you much…"
     }
+  
 
-
-
+  
     ,{
       "title"			: "How-To Install Ubuntu.",
-      "link"			: "http://rowthiram.com/blog/how-to-install-ubuntu/",
+      "link"			: "http://localhost:4000/blog/how-to-install-ubuntu/",
       "excerpt"		: "Ubuntu is Linux based open source operating system which is basically designed for programming addicts."
     }
+  
 
-
-
+  
     ,{
       "title"			: "My First Job Experience",
-      "link"			: "http://rowthiram.com/articles/my-first-job-experience/",
+      "link"			: "http://localhost:4000/articles/my-first-job-experience/",
       "excerpt"		: "Finding out a whole new myself. Just another regular 2016 passout with much hopes in life, I found a new side of myself in this journey of 2 months…"
     }
+  
 
-
-
+  
     ,{
       "title"			: "Illustrations Vs Words",
-      "link"			: "http://rowthiram.com/articles/illustrations-vs-words/",
+      "link"			: "http://localhost:4000/articles/illustrations-vs-words/",
       "excerpt"		: "Illustrations or Words,making communication simple and beautiful? Words are just too complicated. Are they not? By the way, too ambuiguous…"
     }
+  
 
-
-
+  
     ,{
       "title"			: "Employee Referral",
-      "link"			: "http://rowthiram.com/articles/employee-referral/",
+      "link"			: "http://localhost:4000/articles/employee-referral/",
       "excerpt"		: "Why employee referrals? Here are the top 6 reasons why companies recruit people by reference…"
     }
+  
 
-
-
+  
     ,{
       "title"			: "Welcome to Rowthiram.",
-      "link"			: "http://rowthiram.com/articles/welcome-to-rowthiram/",
+      "link"			: "http://localhost:4000/articles/welcome-to-rowthiram/",
       "excerpt"		: "Welcome to Rowthiram!"
     }
+  
 
 
 
+  
 
+  
 
+  
 
+  
 
-
-
-
-
-
-
+  
     ,{
       "title"			: "About Rowthiram Team",
-      "link"			: "http://rowthiram.com/about/",
+      "link"			: "http://localhost:4000/about/",
       "excerpt"		: "A site crafted to play around with the technology around us."
     }
+  
 
+  
 
-
-
-
+  
     ,{
       "title"			: "Articles",
-      "link"			: "http://rowthiram.com/articles/",
+      "link"			: "http://localhost:4000/articles/",
       "excerpt"		: "An archive of articles sorted by date."
     }
+  
 
-
-
+  
     ,{
       "title"			: "Contact Rowthiram",
-      "link"			: "http://rowthiram.com/contact/",
+      "link"			: "http://localhost:4000/contact/",
       "excerpt"		: "A site crafted to play around with the technology around us."
     }
+  
 
-
-
+  
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://rowthiram.com/theme-setup/",
+      "link"			: "http://localhost:4000/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
+  
 
+  
 
+  
 
-
-
-
-
+  
 
 ]
