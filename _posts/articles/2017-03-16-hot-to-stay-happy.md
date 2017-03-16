@@ -9,7 +9,7 @@ date:   2017-03-15 10:25:35 +0200
 share: true
 modified: 2017-03-15T11:18:57-04:00
 image:
-  feature: my_first_job.jpg
+  feature: happy.jpg
 ---
 
 
